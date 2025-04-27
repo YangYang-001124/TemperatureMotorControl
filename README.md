@@ -19,6 +19,7 @@ The system continuously samples temperature values and controls motor actions ac
 ---
 
 ## Project Structure
+```bash
 TemperatureMotorControl/ 
 ├── main.cpp # Main application loop 
 ├── Motor.h / Motor.cpp # Motor control module 
@@ -27,6 +28,7 @@ TemperatureMotorControl/
 ├── test.cpp # Unit testing script 
 ├── TEST_PLAN.md # Test plan and testing strategy 
 ├── README.md # Project documentation
+```
 
 ---
 
