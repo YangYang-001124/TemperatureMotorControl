@@ -21,13 +21,13 @@ The system continuously samples temperature values and controls motor actions ac
 ## Project Structure
 ```bash
 TemperatureMotorControl/ 
-├── main.cpp # Main application loop 
+├── main.cpp 
 ├── Motor.h / Motor.cpp # Motor control module 
 ├── TemperatureSensor.h / TemperatureSensor.cpp # Temperature simulation module 
-├── HardwareUnit.h / HardwareUnit.cpp # Hardware ID module 
+├── HardwareUnit.h / HardwareUnit.cpp # Hardware ID and revision module 
 ├── test.cpp # Unit testing script 
 ├── TEST_PLAN.md # Test plan and testing strategy 
-├── README.md # Project documentation
+├── README.md
 ```
 
 ---
@@ -48,7 +48,7 @@ g++ test.cpp Motor.cpp TemperatureSensor.cpp HardwareUnit.cpp -o test_temp_motor
 ./test_temp_motor_control
 ```
 
-## The main program will:
+## The Main Program Will:
 - Continuously monitor simulated temperature values.
 - Control motor actions accordingly.
 - Output logs to the console and save logs to TMC_log.txt.
