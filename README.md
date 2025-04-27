@@ -13,7 +13,7 @@ The system continuously samples temperature values and controls motor actions ac
   - 85°C ≤ Temperature < 105°C → Rotate Left
   - Temperature ≥ 105°C → Stop Motor
 - Hardware revision support via modular structure.
-- Real-time log file generation (`system_log.txt`) with timestamps.
+- Real-time log file generation (`TMC_log.txt`) with timestamps.
 - Structured unit testing for all system modules.
 
 ---
