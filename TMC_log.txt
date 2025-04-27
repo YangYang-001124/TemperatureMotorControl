@@ -19107,51 +19107,1347 @@
 2025-04-27 23:30:36 | Temp: 93.6°C | Motor: Rotating Left
 2025-04-27 23:30:36 | Temp: 79.1°C | Motor: Rotating Right
 2025-04-27 23:30:36 | Temp: 94.6°C | Motor: Rotating Left
-ing Left
-2025-04-27 23:30:31 | Temp: 97.8°C | Motor: Rotating Left
-2025-04-27 23:30:31 | Temp: 73°C | Motor: Rotating Right
-2025-04-27 23:30:32 | Temp: 109°C | Motor: Stopping
-2025-04-27 23:30:32 | Temp: 102.8°C | Motor: Rotating Left
-2025-04-27 23:30:32 | Temp: 100.7°C | Motor: Rotating Left
-2025-04-27 23:30:32 | Temp: 106.8°C | Motor: Stopping
-2025-04-27 23:30:32 | Temp: 70°C | Motor: Rotating Right
-2025-04-27 23:30:32 | Temp: 80.6°C | Motor: Rotating Right
-2025-04-27 23:30:32 | Temp: 80.8°C | Motor: Rotating Right
-2025-04-27 23:30:32 | Temp: 86.3°C | Motor: Rotating Left
-2025-04-27 23:30:32 | Temp: 105.2°C | Motor: Stopping
-2025-04-27 23:30:32 | Temp: 86.5°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 100.4°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 94.7°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 100.5°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 85.8°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 104°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 104.8°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 109.6°C | Motor: Stopping
-2025-04-27 23:30:33 | Temp: 100.3°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 89°C | Motor: Rotating Left
-2025-04-27 23:30:33 | Temp: 96.7°C | Motor: Rotating Left
-2025-04-27 23:30:34 | Temp: 80.6°C | Motor: Rotating Right
-2025-04-27 23:30:34 | Temp: 105.4°C | Motor: Stopping
-2025-04-27 23:30:34 | Temp: 76.3°C | Motor: Rotating Right
-2025-04-27 23:30:34 | Temp: 80.6°C | Motor: Rotating Right
-2025-04-27 23:30:34 | Temp: 78°C | Motor: Rotating Right
-2025-04-27 23:30:34 | Temp: 87.9°C | Motor: Rotating Left
-2025-04-27 23:30:34 | Temp: 96.7°C | Motor: Rotating Left
-2025-04-27 23:30:34 | Temp: 78.7°C | Motor: Rotating Right
-2025-04-27 23:30:34 | Temp: 105.6°C | Motor: Stopping
-2025-04-27 23:30:34 | Temp: 84.5°C | Motor: Rotating Right
-2025-04-27 23:30:35 | Temp: 76.9°C | Motor: Rotating Right
-2025-04-27 23:30:35 | Temp: 99.8°C | Motor: Rotating Left
-2025-04-27 23:30:35 | Temp: 72.6°C | Motor: Rotating Right
-2025-04-27 23:30:35 | Temp: 102.8°C | Motor: Rotating Left
-2025-04-27 23:30:35 | Temp: 96.6°C | Motor: Rotating Left
-2025-04-27 23:30:35 | Temp: 72.6°C | Motor: Rotating Right
-2025-04-27 23:30:35 | Temp: 73.5°C | Motor: Rotating Right
-2025-04-27 23:30:35 | Temp: 107.4°C | Motor: Stopping
-2025-04-27 23:30:35 | Temp: 89°C | Motor: Rotating Left
-2025-04-27 23:30:35 | Temp: 103.9°C | Motor: Rotating Left
-2025-04-27 23:30:36 | Temp: 84°C | Motor: Rotating Right
-2025-04-27 23:30:36 | Temp: 74.6°C | Motor: Rotating Right
-2025-04-27 23:30:36 | Temp: 88.7°C | Motor: Rotating Left
-2025-04-27 23:30:36 | Temp: 109.7°C | Motor: Stopping
-2025-04-27 23:30:36 | Temp: 85.6°C | Motor: Rotating Left
+2025-04-27 23:30:36 | Temp: 72.7°C | Motor: Rotating Right
+2025-04-27 23:30:36 | Temp: 80.1°C | Motor: Rotating Right
+2025-04-27 23:30:36 | Temp: 71°C | Motor: Rotating Right
+2025-04-27 23:30:36 | Temp: 106.3°C | Motor: Stopping
+2025-04-27 23:30:36 | Temp: 98.3°C | Motor: Rotating Left
+2025-04-27 23:30:37 | Temp: 70.9°C | Motor: Rotating Right
+2025-04-27 23:30:37 | Temp: 103.6°C | Motor: Rotating Left
+2025-04-27 23:30:37 | Temp: 91.1°C | Motor: Rotating Left
+2025-04-27 23:30:37 | Temp: 74.6°C | Motor: Rotating Right
+2025-04-27 23:30:37 | Temp: 83.6°C | Motor: Rotating Right
+2025-04-27 23:30:37 | Temp: 104.2°C | Motor: Rotating Left
+2025-04-27 23:30:37 | Temp: 86.9°C | Motor: Rotating Left
+2025-04-27 23:30:37 | Temp: 89.8°C | Motor: Rotating Left
+2025-04-27 23:30:37 | Temp: 92°C | Motor: Rotating Left
+2025-04-27 23:30:37 | Temp: 103.1°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 89°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 78.4°C | Motor: Rotating Right
+2025-04-27 23:30:38 | Temp: 97.9°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 79.3°C | Motor: Rotating Right
+2025-04-27 23:30:38 | Temp: 103.1°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 91.6°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 97.3°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 89.1°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 86.8°C | Motor: Rotating Left
+2025-04-27 23:30:38 | Temp: 92°C | Motor: Rotating Left
+2025-04-27 23:30:39 | Temp: 92.1°C | Motor: Rotating Left
+2025-04-27 23:30:39 | Temp: 106.8°C | Motor: Stopping
+2025-04-27 23:30:39 | Temp: 71.5°C | Motor: Rotating Right
+2025-04-27 23:30:39 | Temp: 75.7°C | Motor: Rotating Right
+2025-04-27 23:30:39 | Temp: 71.1°C | Motor: Rotating Right
+2025-04-27 23:30:39 | Temp: 91.4°C | Motor: Rotating Left
+2025-04-27 23:30:39 | Temp: 73.6°C | Motor: Rotating Right
+2025-04-27 23:30:39 | Temp: 81.2°C | Motor: Rotating Right
+2025-04-27 23:30:39 | Temp: 92.4°C | Motor: Rotating Left
+2025-04-27 23:30:39 | Temp: 109.9°C | Motor: Stopping
+2025-04-27 23:30:40 | Temp: 104.7°C | Motor: Rotating Left
+2025-04-27 23:30:40 | Temp: 88.6°C | Motor: Rotating Left
+2025-04-27 23:30:40 | Temp: 98.8°C | Motor: Rotating Left
+2025-04-27 23:30:40 | Temp: 81.1°C | Motor: Rotating Right
+2025-04-27 23:30:40 | Temp: 93.2°C | Motor: Rotating Left
+2025-04-27 23:30:40 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:30:40 | Temp: 75.3°C | Motor: Rotating Right
+2025-04-27 23:30:40 | Temp: 70.1°C | Motor: Rotating Right
+2025-04-27 23:30:40 | Temp: 92.3°C | Motor: Rotating Left
+2025-04-27 23:30:40 | Temp: 92.6°C | Motor: Rotating Left
+2025-04-27 23:30:41 | Temp: 98.4°C | Motor: Rotating Left
+2025-04-27 23:30:41 | Temp: 106.5°C | Motor: Stopping
+2025-04-27 23:30:41 | Temp: 101°C | Motor: Rotating Left
+2025-04-27 23:30:41 | Temp: 81.6°C | Motor: Rotating Right
+2025-04-27 23:30:41 | Temp: 71.1°C | Motor: Rotating Right
+2025-04-27 23:30:41 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:30:41 | Temp: 103.2°C | Motor: Rotating Left
+2025-04-27 23:30:41 | Temp: 98.4°C | Motor: Rotating Left
+2025-04-27 23:30:41 | Temp: 73.3°C | Motor: Rotating Right
+2025-04-27 23:30:41 | Temp: 80.1°C | Motor: Rotating Right
+2025-04-27 23:30:42 | Temp: 80.5°C | Motor: Rotating Right
+2025-04-27 23:30:42 | Temp: 90.6°C | Motor: Rotating Left
+2025-04-27 23:30:42 | Temp: 72.1°C | Motor: Rotating Right
+2025-04-27 23:30:42 | Temp: 77.2°C | Motor: Rotating Right
+2025-04-27 23:30:42 | Temp: 96.3°C | Motor: Rotating Left
+2025-04-27 23:30:42 | Temp: 108.5°C | Motor: Stopping
+2025-04-27 23:30:42 | Temp: 93.8°C | Motor: Rotating Left
+2025-04-27 23:30:42 | Temp: 99.9°C | Motor: Rotating Left
+2025-04-27 23:30:42 | Temp: 79.7°C | Motor: Rotating Right
+2025-04-27 23:30:42 | Temp: 76.3°C | Motor: Rotating Right
+2025-04-27 23:30:43 | Temp: 95°C | Motor: Rotating Left
+2025-04-27 23:30:43 | Temp: 109.7°C | Motor: Stopping
+2025-04-27 23:30:43 | Temp: 94.9°C | Motor: Rotating Left
+2025-04-27 23:30:43 | Temp: 83.8°C | Motor: Rotating Right
+2025-04-27 23:30:43 | Temp: 76°C | Motor: Rotating Right
+2025-04-27 23:30:43 | Temp: 73.3°C | Motor: Rotating Right
+2025-04-27 23:30:43 | Temp: 86.3°C | Motor: Rotating Left
+2025-04-27 23:30:43 | Temp: 81.3°C | Motor: Rotating Right
+2025-04-27 23:30:43 | Temp: 108.6°C | Motor: Stopping
+2025-04-27 23:30:43 | Temp: 103.8°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 99.1°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 92.2°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 95.5°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 85.4°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 103.8°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 96.6°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 109.6°C | Motor: Stopping
+2025-04-27 23:30:44 | Temp: 97.1°C | Motor: Rotating Left
+2025-04-27 23:30:44 | Temp: 80.3°C | Motor: Rotating Right
+2025-04-27 23:30:44 | Temp: 108.1°C | Motor: Stopping
+2025-04-27 23:30:45 | Temp: 102.4°C | Motor: Rotating Left
+2025-04-27 23:30:45 | Temp: 86°C | Motor: Rotating Left
+2025-04-27 23:30:45 | Temp: 88.7°C | Motor: Rotating Left
+2025-04-27 23:30:45 | Temp: 99.7°C | Motor: Rotating Left
+2025-04-27 23:30:45 | Temp: 88.4°C | Motor: Rotating Left
+2025-04-27 23:30:45 | Temp: 70.2°C | Motor: Rotating Right
+2025-04-27 23:30:45 | Temp: 98.2°C | Motor: Rotating Left
+2025-04-27 23:30:45 | Temp: 72.3°C | Motor: Rotating Right
+2025-04-27 23:30:45 | Temp: 95.3°C | Motor: Rotating Left
+2025-04-27 23:30:45 | Temp: 103.2°C | Motor: Rotating Left
+2025-04-27 23:30:46 | Temp: 73.8°C | Motor: Rotating Right
+2025-04-27 23:30:46 | Temp: 80.3°C | Motor: Rotating Right
+2025-04-27 23:30:46 | Temp: 98.1°C | Motor: Rotating Left
+2025-04-27 23:30:46 | Temp: 93.9°C | Motor: Rotating Left
+2025-04-27 23:30:46 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:30:46 | Temp: 104.1°C | Motor: Rotating Left
+2025-04-27 23:30:46 | Temp: 92.4°C | Motor: Rotating Left
+2025-04-27 23:30:46 | Temp: 70.5°C | Motor: Rotating Right
+2025-04-27 23:30:46 | Temp: 70.6°C | Motor: Rotating Right
+2025-04-27 23:30:46 | Temp: 86.2°C | Motor: Rotating Left
+2025-04-27 23:30:47 | Temp: 99.5°C | Motor: Rotating Left
+2025-04-27 23:30:47 | Temp: 99.8°C | Motor: Rotating Left
+2025-04-27 23:30:47 | Temp: 108.4°C | Motor: Stopping
+2025-04-27 23:30:47 | Temp: 85°C | Motor: Rotating Left
+2025-04-27 23:30:47 | Temp: 75.2°C | Motor: Rotating Right
+2025-04-27 23:30:47 | Temp: 102.3°C | Motor: Rotating Left
+2025-04-27 23:30:47 | Temp: 106.9°C | Motor: Stopping
+2025-04-27 23:30:47 | Temp: 70°C | Motor: Rotating Right
+2025-04-27 23:30:47 | Temp: 84.6°C | Motor: Rotating Right
+2025-04-27 23:30:48 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:30:48 | Temp: 103.3°C | Motor: Rotating Left
+2025-04-27 23:30:48 | Temp: 72.2°C | Motor: Rotating Right
+2025-04-27 23:30:48 | Temp: 88.4°C | Motor: Rotating Left
+2025-04-27 23:30:48 | Temp: 77.2°C | Motor: Rotating Right
+2025-04-27 23:30:48 | Temp: 101.9°C | Motor: Rotating Left
+2025-04-27 23:30:48 | Temp: 106.8°C | Motor: Stopping
+2025-04-27 23:30:48 | Temp: 77.4°C | Motor: Rotating Right
+2025-04-27 23:30:48 | Temp: 90.2°C | Motor: Rotating Left
+2025-04-27 23:30:48 | Temp: 104.3°C | Motor: Rotating Left
+2025-04-27 23:30:49 | Temp: 102.7°C | Motor: Rotating Left
+2025-04-27 23:30:49 | Temp: 78.6°C | Motor: Rotating Right
+2025-04-27 23:30:49 | Temp: 108.1°C | Motor: Stopping
+2025-04-27 23:30:49 | Temp: 73°C | Motor: Rotating Right
+2025-04-27 23:30:49 | Temp: 106.7°C | Motor: Stopping
+2025-04-27 23:30:49 | Temp: 87.2°C | Motor: Rotating Left
+2025-04-27 23:30:49 | Temp: 97.2°C | Motor: Rotating Left
+2025-04-27 23:30:49 | Temp: 100.8°C | Motor: Rotating Left
+2025-04-27 23:30:49 | Temp: 109.6°C | Motor: Stopping
+2025-04-27 23:30:49 | Temp: 92.9°C | Motor: Rotating Left
+2025-04-27 23:30:50 | Temp: 101.4°C | Motor: Rotating Left
+2025-04-27 23:30:50 | Temp: 85.8°C | Motor: Rotating Left
+2025-04-27 23:30:50 | Temp: 77.6°C | Motor: Rotating Right
+2025-04-27 23:30:50 | Temp: 86.4°C | Motor: Rotating Left
+2025-04-27 23:30:50 | Temp: 79.5°C | Motor: Rotating Right
+2025-04-27 23:30:50 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:30:50 | Temp: 86.8°C | Motor: Rotating Left
+2025-04-27 23:30:50 | Temp: 71.8°C | Motor: Rotating Right
+2025-04-27 23:30:50 | Temp: 84.8°C | Motor: Rotating Right
+2025-04-27 23:30:50 | Temp: 86.8°C | Motor: Rotating Left
+2025-04-27 23:30:51 | Temp: 81.6°C | Motor: Rotating Right
+2025-04-27 23:30:51 | Temp: 87.2°C | Motor: Rotating Left
+2025-04-27 23:30:51 | Temp: 80.1°C | Motor: Rotating Right
+2025-04-27 23:30:51 | Temp: 83.8°C | Motor: Rotating Right
+2025-04-27 23:30:51 | Temp: 100.8°C | Motor: Rotating Left
+2025-04-27 23:30:51 | Temp: 82.5°C | Motor: Rotating Right
+2025-04-27 23:30:51 | Temp: 75.7°C | Motor: Rotating Right
+2025-04-27 23:30:51 | Temp: 92.8°C | Motor: Rotating Left
+2025-04-27 23:30:51 | Temp: 89.9°C | Motor: Rotating Left
+2025-04-27 23:30:51 | Temp: 91.1°C | Motor: Rotating Left
+2025-04-27 23:30:52 | Temp: 87.2°C | Motor: Rotating Left
+2025-04-27 23:30:52 | Temp: 77.8°C | Motor: Rotating Right
+2025-04-27 23:30:52 | Temp: 99.7°C | Motor: Rotating Left
+2025-04-27 23:30:52 | Temp: 80.5°C | Motor: Rotating Right
+2025-04-27 23:30:52 | Temp: 76.1°C | Motor: Rotating Right
+2025-04-27 23:30:52 | Temp: 91.6°C | Motor: Rotating Left
+2025-04-27 23:30:52 | Temp: 97.8°C | Motor: Rotating Left
+2025-04-27 23:30:52 | Temp: 103.3°C | Motor: Rotating Left
+2025-04-27 23:30:52 | Temp: 82.4°C | Motor: Rotating Right
+2025-04-27 23:30:52 | Temp: 92.6°C | Motor: Rotating Left
+2025-04-27 23:30:53 | Temp: 81.5°C | Motor: Rotating Right
+2025-04-27 23:30:53 | Temp: 109.1°C | Motor: Stopping
+2025-04-27 23:30:53 | Temp: 103.7°C | Motor: Rotating Left
+2025-04-27 23:30:53 | Temp: 89.1°C | Motor: Rotating Left
+2025-04-27 23:30:53 | Temp: 80.7°C | Motor: Rotating Right
+2025-04-27 23:30:53 | Temp: 73.2°C | Motor: Rotating Right
+2025-04-27 23:30:53 | Temp: 107°C | Motor: Stopping
+2025-04-27 23:30:53 | Temp: 97.6°C | Motor: Rotating Left
+2025-04-27 23:30:53 | Temp: 70.2°C | Motor: Rotating Right
+2025-04-27 23:30:53 | Temp: 77°C | Motor: Rotating Right
+2025-04-27 23:30:54 | Temp: 109.6°C | Motor: Stopping
+2025-04-27 23:30:54 | Temp: 81.8°C | Motor: Rotating Right
+2025-04-27 23:30:54 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:30:54 | Temp: 75°C | Motor: Rotating Right
+2025-04-27 23:30:54 | Temp: 95.6°C | Motor: Rotating Left
+2025-04-27 23:30:54 | Temp: 85°C | Motor: Rotating Left
+2025-04-27 23:30:54 | Temp: 87.5°C | Motor: Rotating Left
+2025-04-27 23:30:54 | Temp: 101.3°C | Motor: Rotating Left
+2025-04-27 23:30:54 | Temp: 107.9°C | Motor: Stopping
+2025-04-27 23:30:54 | Temp: 102.7°C | Motor: Rotating Left
+2025-04-27 23:30:55 | Temp: 77.7°C | Motor: Rotating Right
+2025-04-27 23:30:55 | Temp: 80.3°C | Motor: Rotating Right
+2025-04-27 23:30:55 | Temp: 70.5°C | Motor: Rotating Right
+2025-04-27 23:30:55 | Temp: 107.4°C | Motor: Stopping
+2025-04-27 23:30:55 | Temp: 90.8°C | Motor: Rotating Left
+2025-04-27 23:30:55 | Temp: 76.6°C | Motor: Rotating Right
+2025-04-27 23:30:55 | Temp: 84.3°C | Motor: Rotating Right
+2025-04-27 23:30:55 | Temp: 73.8°C | Motor: Rotating Right
+2025-04-27 23:30:55 | Temp: 105.2°C | Motor: Stopping
+2025-04-27 23:30:55 | Temp: 96.7°C | Motor: Rotating Left
+2025-04-27 23:30:56 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:30:56 | Temp: 76.7°C | Motor: Rotating Right
+2025-04-27 23:30:56 | Temp: 91°C | Motor: Rotating Left
+2025-04-27 23:30:56 | Temp: 85.4°C | Motor: Rotating Left
+2025-04-27 23:30:56 | Temp: 91°C | Motor: Rotating Left
+2025-04-27 23:30:56 | Temp: 97°C | Motor: Rotating Left
+2025-04-27 23:30:56 | Temp: 88.6°C | Motor: Rotating Left
+2025-04-27 23:30:56 | Temp: 83.3°C | Motor: Rotating Right
+2025-04-27 23:30:56 | Temp: 79.8°C | Motor: Rotating Right
+2025-04-27 23:30:56 | Temp: 84°C | Motor: Rotating Right
+2025-04-27 23:30:57 | Temp: 90.3°C | Motor: Rotating Left
+2025-04-27 23:30:57 | Temp: 79.4°C | Motor: Rotating Right
+2025-04-27 23:30:57 | Temp: 95.8°C | Motor: Rotating Left
+2025-04-27 23:30:57 | Temp: 74.6°C | Motor: Rotating Right
+2025-04-27 23:30:57 | Temp: 84.4°C | Motor: Rotating Right
+2025-04-27 23:30:57 | Temp: 81.4°C | Motor: Rotating Right
+2025-04-27 23:30:57 | Temp: 84.8°C | Motor: Rotating Right
+2025-04-27 23:30:57 | Temp: 102°C | Motor: Rotating Left
+2025-04-27 23:30:57 | Temp: 107.9°C | Motor: Stopping
+2025-04-27 23:30:57 | Temp: 77.9°C | Motor: Rotating Right
+2025-04-27 23:30:58 | Temp: 94.7°C | Motor: Rotating Left
+2025-04-27 23:30:58 | Temp: 75.6°C | Motor: Rotating Right
+2025-04-27 23:30:58 | Temp: 88.2°C | Motor: Rotating Left
+2025-04-27 23:30:58 | Temp: 90.4°C | Motor: Rotating Left
+2025-04-27 23:30:58 | Temp: 108.3°C | Motor: Stopping
+2025-04-27 23:30:58 | Temp: 104.3°C | Motor: Rotating Left
+2025-04-27 23:30:58 | Temp: 97.1°C | Motor: Rotating Left
+2025-04-27 23:30:58 | Temp: 82.6°C | Motor: Rotating Right
+2025-04-27 23:30:58 | Temp: 108.1°C | Motor: Stopping
+2025-04-27 23:30:58 | Temp: 92.3°C | Motor: Rotating Left
+2025-04-27 23:30:59 | Temp: 104.5°C | Motor: Rotating Left
+2025-04-27 23:30:59 | Temp: 89.8°C | Motor: Rotating Left
+2025-04-27 23:30:59 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:30:59 | Temp: 80.8°C | Motor: Rotating Right
+2025-04-27 23:30:59 | Temp: 105.2°C | Motor: Stopping
+2025-04-27 23:30:59 | Temp: 70.4°C | Motor: Rotating Right
+2025-04-27 23:30:59 | Temp: 107.8°C | Motor: Stopping
+2025-04-27 23:30:59 | Temp: 79°C | Motor: Rotating Right
+2025-04-27 23:30:59 | Temp: 83.7°C | Motor: Rotating Right
+2025-04-27 23:30:59 | Temp: 77.6°C | Motor: Rotating Right
+2025-04-27 23:31:00 | Temp: 93°C | Motor: Rotating Left
+2025-04-27 23:31:00 | Temp: 104.1°C | Motor: Rotating Left
+2025-04-27 23:31:00 | Temp: 87°C | Motor: Rotating Left
+2025-04-27 23:31:00 | Temp: 78.8°C | Motor: Rotating Right
+2025-04-27 23:31:00 | Temp: 103.9°C | Motor: Rotating Left
+2025-04-27 23:31:00 | Temp: 96.7°C | Motor: Rotating Left
+2025-04-27 23:31:00 | Temp: 85.4°C | Motor: Rotating Left
+2025-04-27 23:31:00 | Temp: 73.9°C | Motor: Rotating Right
+2025-04-27 23:31:00 | Temp: 83.9°C | Motor: Rotating Right
+2025-04-27 23:31:00 | Temp: 83.4°C | Motor: Rotating Right
+2025-04-27 23:31:01 | Temp: 81.9°C | Motor: Rotating Right
+2025-04-27 23:31:01 | Temp: 108.6°C | Motor: Stopping
+2025-04-27 23:31:01 | Temp: 89°C | Motor: Rotating Left
+2025-04-27 23:31:01 | Temp: 100.1°C | Motor: Rotating Left
+2025-04-27 23:31:01 | Temp: 89°C | Motor: Rotating Left
+2025-04-27 23:31:01 | Temp: 87.3°C | Motor: Rotating Left
+2025-04-27 23:31:01 | Temp: 94.4°C | Motor: Rotating Left
+2025-04-27 23:31:01 | Temp: 71.3°C | Motor: Rotating Right
+2025-04-27 23:31:01 | Temp: 99.9°C | Motor: Rotating Left
+2025-04-27 23:31:01 | Temp: 87.8°C | Motor: Rotating Left
+2025-04-27 23:31:02 | Temp: 88.8°C | Motor: Rotating Left
+2025-04-27 23:31:02 | Temp: 94.5°C | Motor: Rotating Left
+2025-04-27 23:31:02 | Temp: 107.6°C | Motor: Stopping
+2025-04-27 23:31:02 | Temp: 73°C | Motor: Rotating Right
+2025-04-27 23:31:02 | Temp: 105.3°C | Motor: Stopping
+2025-04-27 23:31:02 | Temp: 98.1°C | Motor: Rotating Left
+2025-04-27 23:31:02 | Temp: 108.7°C | Motor: Stopping
+2025-04-27 23:31:02 | Temp: 98.3°C | Motor: Rotating Left
+2025-04-27 23:31:02 | Temp: 102.3°C | Motor: Rotating Left
+2025-04-27 23:31:02 | Temp: 82.4°C | Motor: Rotating Right
+2025-04-27 23:31:03 | Temp: 105.9°C | Motor: Stopping
+2025-04-27 23:31:03 | Temp: 80.6°C | Motor: Rotating Right
+2025-04-27 23:31:03 | Temp: 76.5°C | Motor: Rotating Right
+2025-04-27 23:31:03 | Temp: 78.1°C | Motor: Rotating Right
+2025-04-27 23:31:03 | Temp: 84.6°C | Motor: Rotating Right
+2025-04-27 23:31:03 | Temp: 105.6°C | Motor: Stopping
+2025-04-27 23:31:03 | Temp: 104.8°C | Motor: Rotating Left
+2025-04-27 23:31:03 | Temp: 100.1°C | Motor: Rotating Left
+2025-04-27 23:31:03 | Temp: 109.6°C | Motor: Stopping
+2025-04-27 23:31:03 | Temp: 78.7°C | Motor: Rotating Right
+2025-04-27 23:31:04 | Temp: 108.7°C | Motor: Stopping
+2025-04-27 23:31:04 | Temp: 81.5°C | Motor: Rotating Right
+2025-04-27 23:31:04 | Temp: 72.5°C | Motor: Rotating Right
+2025-04-27 23:31:04 | Temp: 87.7°C | Motor: Rotating Left
+2025-04-27 23:31:04 | Temp: 106.8°C | Motor: Stopping
+2025-04-27 23:31:04 | Temp: 86.8°C | Motor: Rotating Left
+2025-04-27 23:31:04 | Temp: 100.3°C | Motor: Rotating Left
+2025-04-27 23:31:04 | Temp: 86.5°C | Motor: Rotating Left
+2025-04-27 23:31:04 | Temp: 83.3°C | Motor: Rotating Right
+2025-04-27 23:31:04 | Temp: 90.2°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 104.3°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 102.2°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 109.9°C | Motor: Stopping
+2025-04-27 23:31:05 | Temp: 97.1°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 85.2°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 99.1°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 88.7°C | Motor: Rotating Left
+2025-04-27 23:31:05 | Temp: 72.8°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 71.6°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 79.8°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 83.4°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 73.3°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 83.2°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 93.2°C | Motor: Rotating Left
+2025-04-27 23:31:06 | Temp: 109°C | Motor: Stopping
+2025-04-27 23:31:06 | Temp: 73.2°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 83.3°C | Motor: Rotating Right
+2025-04-27 23:31:06 | Temp: 103.8°C | Motor: Rotating Left
+2025-04-27 23:31:07 | Temp: 82°C | Motor: Rotating Right
+2025-04-27 23:31:07 | Temp: 77.2°C | Motor: Rotating Right
+2025-04-27 23:31:07 | Temp: 75.3°C | Motor: Rotating Right
+2025-04-27 23:31:07 | Temp: 79.7°C | Motor: Rotating Right
+2025-04-27 23:31:07 | Temp: 95°C | Motor: Rotating Left
+2025-04-27 23:31:07 | Temp: 107.3°C | Motor: Stopping
+2025-04-27 23:31:07 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:31:07 | Temp: 80.5°C | Motor: Rotating Right
+2025-04-27 23:31:07 | Temp: 83.8°C | Motor: Rotating Right
+2025-04-27 23:31:07 | Temp: 105.1°C | Motor: Stopping
+2025-04-27 23:31:08 | Temp: 95.9°C | Motor: Rotating Left
+2025-04-27 23:31:08 | Temp: 78.1°C | Motor: Rotating Right
+2025-04-27 23:31:08 | Temp: 97.3°C | Motor: Rotating Left
+2025-04-27 23:31:08 | Temp: 95.9°C | Motor: Rotating Left
+2025-04-27 23:31:08 | Temp: 105.3°C | Motor: Stopping
+2025-04-27 23:31:08 | Temp: 87.7°C | Motor: Rotating Left
+2025-04-27 23:31:08 | Temp: 81.5°C | Motor: Rotating Right
+2025-04-27 23:31:08 | Temp: 75.7°C | Motor: Rotating Right
+2025-04-27 23:31:08 | Temp: 72.1°C | Motor: Rotating Right
+2025-04-27 23:31:08 | Temp: 95.5°C | Motor: Rotating Left
+2025-04-27 23:31:09 | Temp: 78.5°C | Motor: Rotating Right
+2025-04-27 23:31:09 | Temp: 73.7°C | Motor: Rotating Right
+2025-04-27 23:31:09 | Temp: 105.3°C | Motor: Stopping
+2025-04-27 23:31:09 | Temp: 87.1°C | Motor: Rotating Left
+2025-04-27 23:31:09 | Temp: 72.2°C | Motor: Rotating Right
+2025-04-27 23:31:09 | Temp: 73.7°C | Motor: Rotating Right
+2025-04-27 23:31:09 | Temp: 70.4°C | Motor: Rotating Right
+2025-04-27 23:31:09 | Temp: 106.4°C | Motor: Stopping
+2025-04-27 23:31:09 | Temp: 77°C | Motor: Rotating Right
+2025-04-27 23:31:09 | Temp: 78.9°C | Motor: Rotating Right
+2025-04-27 23:31:10 | Temp: 100.2°C | Motor: Rotating Left
+2025-04-27 23:31:10 | Temp: 89°C | Motor: Rotating Left
+2025-04-27 23:31:10 | Temp: 86.2°C | Motor: Rotating Left
+2025-04-27 23:31:10 | Temp: 100.7°C | Motor: Rotating Left
+2025-04-27 23:31:10 | Temp: 93.9°C | Motor: Rotating Left
+2025-04-27 23:31:10 | Temp: 106.4°C | Motor: Stopping
+2025-04-27 23:31:10 | Temp: 98.1°C | Motor: Rotating Left
+2025-04-27 23:31:10 | Temp: 75.7°C | Motor: Rotating Right
+2025-04-27 23:31:10 | Temp: 76.9°C | Motor: Rotating Right
+2025-04-27 23:31:11 | Temp: 107.1°C | Motor: Stopping
+2025-04-27 23:31:11 | Temp: 70.8°C | Motor: Rotating Right
+2025-04-27 23:31:11 | Temp: 102.8°C | Motor: Rotating Left
+2025-04-27 23:31:11 | Temp: 75.3°C | Motor: Rotating Right
+2025-04-27 23:31:11 | Temp: 93.3°C | Motor: Rotating Left
+2025-04-27 23:31:11 | Temp: 83.9°C | Motor: Rotating Right
+2025-04-27 23:31:11 | Temp: 105.8°C | Motor: Stopping
+2025-04-27 23:31:11 | Temp: 71°C | Motor: Rotating Right
+2025-04-27 23:31:11 | Temp: 90.7°C | Motor: Rotating Left
+2025-04-27 23:31:11 | Temp: 106.7°C | Motor: Stopping
+2025-04-27 23:31:12 | Temp: 108.3°C | Motor: Stopping
+2025-04-27 23:31:12 | Temp: 76.2°C | Motor: Rotating Right
+2025-04-27 23:31:12 | Temp: 70.5°C | Motor: Rotating Right
+2025-04-27 23:31:12 | Temp: 72°C | Motor: Rotating Right
+2025-04-27 23:31:12 | Temp: 106.7°C | Motor: Stopping
+2025-04-27 23:31:12 | Temp: 82.8°C | Motor: Rotating Right
+2025-04-27 23:31:12 | Temp: 74.3°C | Motor: Rotating Right
+2025-04-27 23:31:12 | Temp: 70.5°C | Motor: Rotating Right
+2025-04-27 23:31:12 | Temp: 83.2°C | Motor: Rotating Right
+2025-04-27 23:31:12 | Temp: 70.7°C | Motor: Rotating Right
+2025-04-27 23:31:13 | Temp: 77.5°C | Motor: Rotating Right
+2025-04-27 23:31:13 | Temp: 87.4°C | Motor: Rotating Left
+2025-04-27 23:31:13 | Temp: 96.2°C | Motor: Rotating Left
+2025-04-27 23:31:13 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:31:13 | Temp: 98.8°C | Motor: Rotating Left
+2025-04-27 23:31:13 | Temp: 86.9°C | Motor: Rotating Left
+2025-04-27 23:31:13 | Temp: 75.6°C | Motor: Rotating Right
+2025-04-27 23:31:13 | Temp: 90.4°C | Motor: Rotating Left
+2025-04-27 23:31:13 | Temp: 75°C | Motor: Rotating Right
+2025-04-27 23:31:13 | Temp: 76.5°C | Motor: Rotating Right
+2025-04-27 23:31:14 | Temp: 92.5°C | Motor: Rotating Left
+2025-04-27 23:31:14 | Temp: 107.4°C | Motor: Stopping
+2025-04-27 23:31:14 | Temp: 77.3°C | Motor: Rotating Right
+2025-04-27 23:31:14 | Temp: 80.5°C | Motor: Rotating Right
+2025-04-27 23:31:14 | Temp: 107.9°C | Motor: Stopping
+2025-04-27 23:31:14 | Temp: 95.8°C | Motor: Rotating Left
+2025-04-27 23:31:14 | Temp: 94.5°C | Motor: Rotating Left
+2025-04-27 23:31:14 | Temp: 103.7°C | Motor: Rotating Left
+2025-04-27 23:31:14 | Temp: 96.9°C | Motor: Rotating Left
+2025-04-27 23:31:14 | Temp: 75.2°C | Motor: Rotating Right
+2025-04-27 23:31:15 | Temp: 95.6°C | Motor: Rotating Left
+2025-04-27 23:31:15 | Temp: 90.4°C | Motor: Rotating Left
+2025-04-27 23:31:15 | Temp: 76.6°C | Motor: Rotating Right
+2025-04-27 23:31:15 | Temp: 96.1°C | Motor: Rotating Left
+2025-04-27 23:31:15 | Temp: 92.5°C | Motor: Rotating Left
+2025-04-27 23:31:15 | Temp: 73.3°C | Motor: Rotating Right
+2025-04-27 23:31:15 | Temp: 109°C | Motor: Stopping
+2025-04-27 23:31:15 | Temp: 92°C | Motor: Rotating Left
+2025-04-27 23:31:15 | Temp: 73.8°C | Motor: Rotating Right
+2025-04-27 23:31:15 | Temp: 77.4°C | Motor: Rotating Right
+2025-04-27 23:31:16 | Temp: 87.9°C | Motor: Rotating Left
+2025-04-27 23:31:16 | Temp: 81.3°C | Motor: Rotating Right
+2025-04-27 23:31:16 | Temp: 90°C | Motor: Rotating Left
+2025-04-27 23:31:16 | Temp: 74.1°C | Motor: Rotating Right
+2025-04-27 23:31:16 | Temp: 103°C | Motor: Rotating Left
+2025-04-27 23:31:16 | Temp: 74°C | Motor: Rotating Right
+2025-04-27 23:31:16 | Temp: 91.1°C | Motor: Rotating Left
+2025-04-27 23:31:16 | Temp: 103.9°C | Motor: Rotating Left
+2025-04-27 23:31:16 | Temp: 94.4°C | Motor: Rotating Left
+2025-04-27 23:31:16 | Temp: 91.3°C | Motor: Rotating Left
+2025-04-27 23:31:17 | Temp: 70.4°C | Motor: Rotating Right
+2025-04-27 23:31:17 | Temp: 72.1°C | Motor: Rotating Right
+2025-04-27 23:31:17 | Temp: 88.7°C | Motor: Rotating Left
+2025-04-27 23:31:17 | Temp: 73°C | Motor: Rotating Right
+2025-04-27 23:31:17 | Temp: 82.7°C | Motor: Rotating Right
+2025-04-27 23:31:17 | Temp: 86.6°C | Motor: Rotating Left
+2025-04-27 23:31:17 | Temp: 98.8°C | Motor: Rotating Left
+2025-04-27 23:31:17 | Temp: 102.4°C | Motor: Rotating Left
+2025-04-27 23:31:17 | Temp: 75.5°C | Motor: Rotating Right
+2025-04-27 23:31:17 | Temp: 80.9°C | Motor: Rotating Right
+2025-04-27 23:31:18 | Temp: 102.8°C | Motor: Rotating Left
+2025-04-27 23:31:18 | Temp: 96.4°C | Motor: Rotating Left
+2025-04-27 23:31:18 | Temp: 101.4°C | Motor: Rotating Left
+2025-04-27 23:31:18 | Temp: 109.4°C | Motor: Stopping
+2025-04-27 23:31:18 | Temp: 82.5°C | Motor: Rotating Right
+2025-04-27 23:31:18 | Temp: 79.1°C | Motor: Rotating Right
+2025-04-27 23:31:18 | Temp: 72.7°C | Motor: Rotating Right
+2025-04-27 23:31:18 | Temp: 76.7°C | Motor: Rotating Right
+2025-04-27 23:31:18 | Temp: 101.1°C | Motor: Rotating Left
+2025-04-27 23:31:18 | Temp: 71.8°C | Motor: Rotating Right
+2025-04-27 23:31:19 | Temp: 79.4°C | Motor: Rotating Right
+2025-04-27 23:31:19 | Temp: 74.2°C | Motor: Rotating Right
+2025-04-27 23:31:19 | Temp: 83.1°C | Motor: Rotating Right
+2025-04-27 23:31:19 | Temp: 99.4°C | Motor: Rotating Left
+2025-04-27 23:31:19 | Temp: 78.4°C | Motor: Rotating Right
+2025-04-27 23:31:19 | Temp: 71.4°C | Motor: Rotating Right
+2025-04-27 23:31:19 | Temp: 98.7°C | Motor: Rotating Left
+2025-04-27 23:31:19 | Temp: 94.7°C | Motor: Rotating Left
+2025-04-27 23:31:19 | Temp: 100.5°C | Motor: Rotating Left
+2025-04-27 23:31:19 | Temp: 78.3°C | Motor: Rotating Right
+2025-04-27 23:31:20 | Temp: 71.2°C | Motor: Rotating Right
+2025-04-27 23:31:20 | Temp: 100.9°C | Motor: Rotating Left
+2025-04-27 23:31:20 | Temp: 80.5°C | Motor: Rotating Right
+2025-04-27 23:31:20 | Temp: 85.2°C | Motor: Rotating Left
+2025-04-27 23:31:20 | Temp: 99.1°C | Motor: Rotating Left
+2025-04-27 23:31:20 | Temp: 93.2°C | Motor: Rotating Left
+2025-04-27 23:31:20 | Temp: 97°C | Motor: Rotating Left
+2025-04-27 23:31:20 | Temp: 88°C | Motor: Rotating Left
+2025-04-27 23:31:20 | Temp: 80.8°C | Motor: Rotating Right
+2025-04-27 23:31:20 | Temp: 97.8°C | Motor: Rotating Left
+2025-04-27 23:31:21 | Temp: 98.9°C | Motor: Rotating Left
+2025-04-27 23:31:21 | Temp: 73.6°C | Motor: Rotating Right
+2025-04-27 23:31:21 | Temp: 84.2°C | Motor: Rotating Right
+2025-04-27 23:31:21 | Temp: 85.5°C | Motor: Rotating Left
+2025-04-27 23:31:21 | Temp: 73°C | Motor: Rotating Right
+2025-04-27 23:31:21 | Temp: 96.7°C | Motor: Rotating Left
+2025-04-27 23:31:21 | Temp: 94.6°C | Motor: Rotating Left
+2025-04-27 23:31:21 | Temp: 70.9°C | Motor: Rotating Right
+2025-04-27 23:31:21 | Temp: 98.7°C | Motor: Rotating Left
+2025-04-27 23:31:21 | Temp: 85.7°C | Motor: Rotating Left
+2025-04-27 23:31:22 | Temp: 107.9°C | Motor: Stopping
+2025-04-27 23:31:22 | Temp: 108.1°C | Motor: Stopping
+2025-04-27 23:31:22 | Temp: 90°C | Motor: Rotating Left
+2025-04-27 23:31:22 | Temp: 76.3°C | Motor: Rotating Right
+2025-04-27 23:31:22 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:31:22 | Temp: 93.6°C | Motor: Rotating Left
+2025-04-27 23:31:22 | Temp: 77.7°C | Motor: Rotating Right
+2025-04-27 23:31:22 | Temp: 76.6°C | Motor: Rotating Right
+2025-04-27 23:31:22 | Temp: 73.5°C | Motor: Rotating Right
+2025-04-27 23:31:22 | Temp: 103.4°C | Motor: Rotating Left
+2025-04-27 23:31:23 | Temp: 85°C | Motor: Rotating Left
+2025-04-27 23:31:23 | Temp: 74.7°C | Motor: Rotating Right
+2025-04-27 23:31:23 | Temp: 94.3°C | Motor: Rotating Left
+2025-04-27 23:31:23 | Temp: 95.5°C | Motor: Rotating Left
+2025-04-27 23:31:23 | Temp: 85.1°C | Motor: Rotating Left
+2025-04-27 23:31:23 | Temp: 83.5°C | Motor: Rotating Right
+2025-04-27 23:31:23 | Temp: 73.9°C | Motor: Rotating Right
+2025-04-27 23:31:23 | Temp: 72.2°C | Motor: Rotating Right
+2025-04-27 23:31:23 | Temp: 96.7°C | Motor: Rotating Left
+2025-04-27 23:31:23 | Temp: 84.7°C | Motor: Rotating Right
+2025-04-27 23:31:24 | Temp: 100°C | Motor: Rotating Left
+2025-04-27 23:31:24 | Temp: 85.6°C | Motor: Rotating Left
+2025-04-27 23:31:24 | Temp: 83.5°C | Motor: Rotating Right
+2025-04-27 23:31:24 | Temp: 74.2°C | Motor: Rotating Right
+2025-04-27 23:31:24 | Temp: 101.2°C | Motor: Rotating Left
+2025-04-27 23:31:24 | Temp: 81.7°C | Motor: Rotating Right
+2025-04-27 23:31:24 | Temp: 96.1°C | Motor: Rotating Left
+2025-04-27 23:31:24 | Temp: 85.8°C | Motor: Rotating Left
+2025-04-27 23:31:24 | Temp: 82.6°C | Motor: Rotating Right
+2025-04-27 23:31:24 | Temp: 84.8°C | Motor: Rotating Right
+2025-04-27 23:31:25 | Temp: 96.8°C | Motor: Rotating Left
+2025-04-27 23:31:25 | Temp: 75.8°C | Motor: Rotating Right
+2025-04-27 23:31:25 | Temp: 78.1°C | Motor: Rotating Right
+2025-04-27 23:31:25 | Temp: 72°C | Motor: Rotating Right
+2025-04-27 23:31:25 | Temp: 82.1°C | Motor: Rotating Right
+2025-04-27 23:31:25 | Temp: 96.1°C | Motor: Rotating Left
+2025-04-27 23:31:25 | Temp: 90.8°C | Motor: Rotating Left
+2025-04-27 23:31:25 | Temp: 85°C | Motor: Rotating Left
+2025-04-27 23:31:25 | Temp: 102.7°C | Motor: Rotating Left
+2025-04-27 23:31:25 | Temp: 94.3°C | Motor: Rotating Left
+2025-04-27 23:31:26 | Temp: 78.4°C | Motor: Rotating Right
+2025-04-27 23:31:26 | Temp: 77.7°C | Motor: Rotating Right
+2025-04-27 23:31:26 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:31:26 | Temp: 102.7°C | Motor: Rotating Left
+2025-04-27 23:31:26 | Temp: 98.4°C | Motor: Rotating Left
+2025-04-27 23:31:26 | Temp: 109.4°C | Motor: Stopping
+2025-04-27 23:31:26 | Temp: 71.4°C | Motor: Rotating Right
+2025-04-27 23:31:26 | Temp: 102.3°C | Motor: Rotating Left
+2025-04-27 23:31:26 | Temp: 71.6°C | Motor: Rotating Right
+2025-04-27 23:31:26 | Temp: 98.1°C | Motor: Rotating Left
+2025-04-27 23:31:27 | Temp: 72.2°C | Motor: Rotating Right
+2025-04-27 23:31:27 | Temp: 101.6°C | Motor: Rotating Left
+2025-04-27 23:31:27 | Temp: 109°C | Motor: Stopping
+2025-04-27 23:31:27 | Temp: 85.7°C | Motor: Rotating Left
+2025-04-27 23:31:27 | Temp: 101°C | Motor: Rotating Left
+2025-04-27 23:31:27 | Temp: 95.4°C | Motor: Rotating Left
+2025-04-27 23:31:27 | Temp: 97.4°C | Motor: Rotating Left
+2025-04-27 23:31:27 | Temp: 87.1°C | Motor: Rotating Left
+2025-04-27 23:31:27 | Temp: 106.4°C | Motor: Stopping
+2025-04-27 23:31:27 | Temp: 105.3°C | Motor: Stopping
+2025-04-27 23:31:28 | Temp: 97.2°C | Motor: Rotating Left
+2025-04-27 23:31:28 | Temp: 88.4°C | Motor: Rotating Left
+2025-04-27 23:31:28 | Temp: 71.1°C | Motor: Rotating Right
+2025-04-27 23:31:28 | Temp: 100.5°C | Motor: Rotating Left
+2025-04-27 23:31:28 | Temp: 90.4°C | Motor: Rotating Left
+2025-04-27 23:31:28 | Temp: 78.4°C | Motor: Rotating Right
+2025-04-27 23:31:28 | Temp: 81.8°C | Motor: Rotating Right
+2025-04-27 23:31:28 | Temp: 106.4°C | Motor: Stopping
+2025-04-27 23:31:28 | Temp: 93.4°C | Motor: Rotating Left
+2025-04-27 23:31:28 | Temp: 74.6°C | Motor: Rotating Right
+2025-04-27 23:31:29 | Temp: 90.7°C | Motor: Rotating Left
+2025-04-27 23:31:29 | Temp: 101.8°C | Motor: Rotating Left
+2025-04-27 23:31:29 | Temp: 77.5°C | Motor: Rotating Right
+2025-04-27 23:31:29 | Temp: 75°C | Motor: Rotating Right
+2025-04-27 23:31:29 | Temp: 94.5°C | Motor: Rotating Left
+2025-04-27 23:31:29 | Temp: 101.2°C | Motor: Rotating Left
+2025-04-27 23:31:29 | Temp: 74.4°C | Motor: Rotating Right
+2025-04-27 23:31:29 | Temp: 91.2°C | Motor: Rotating Left
+2025-04-27 23:31:29 | Temp: 93.5°C | Motor: Rotating Left
+2025-04-27 23:31:29 | Temp: 71.2°C | Motor: Rotating Right
+2025-04-27 23:31:30 | Temp: 74.5°C | Motor: Rotating Right
+2025-04-27 23:31:30 | Temp: 91°C | Motor: Rotating Left
+2025-04-27 23:31:30 | Temp: 98°C | Motor: Rotating Left
+2025-04-27 23:31:30 | Temp: 73.5°C | Motor: Rotating Right
+2025-04-27 23:31:30 | Temp: 101.9°C | Motor: Rotating Left
+2025-04-27 23:31:30 | Temp: 89°C | Motor: Rotating Left
+2025-04-27 23:31:30 | Temp: 98.9°C | Motor: Rotating Left
+2025-04-27 23:31:30 | Temp: 89.4°C | Motor: Rotating Left
+2025-04-27 23:31:30 | Temp: 101.3°C | Motor: Rotating Left
+2025-04-27 23:31:30 | Temp: 90.6°C | Motor: Rotating Left
+2025-04-27 23:31:31 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:31:31 | Temp: 83.7°C | Motor: Rotating Right
+2025-04-27 23:31:31 | Temp: 109°C | Motor: Stopping
+2025-04-27 23:31:31 | Temp: 76.2°C | Motor: Rotating Right
+2025-04-27 23:31:31 | Temp: 74.3°C | Motor: Rotating Right
+2025-04-27 23:31:31 | Temp: 89.5°C | Motor: Rotating Left
+2025-04-27 23:31:31 | Temp: 84.6°C | Motor: Rotating Right
+2025-04-27 23:31:31 | Temp: 86.1°C | Motor: Rotating Left
+2025-04-27 23:31:31 | Temp: 85.9°C | Motor: Rotating Left
+2025-04-27 23:31:32 | Temp: 108°C | Motor: Stopping
+2025-04-27 23:31:32 | Temp: 85.9°C | Motor: Rotating Left
+2025-04-27 23:31:32 | Temp: 101.9°C | Motor: Rotating Left
+2025-04-27 23:31:32 | Temp: 99.8°C | Motor: Rotating Left
+2025-04-27 23:31:32 | Temp: 88.7°C | Motor: Rotating Left
+2025-04-27 23:31:32 | Temp: 102.1°C | Motor: Rotating Left
+2025-04-27 23:31:32 | Temp: 79.5°C | Motor: Rotating Right
+2025-04-27 23:31:32 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:31:32 | Temp: 101.7°C | Motor: Rotating Left
+2025-04-27 23:31:32 | Temp: 95.9°C | Motor: Rotating Left
+2025-04-27 23:31:33 | Temp: 98.6°C | Motor: Rotating Left
+2025-04-27 23:31:33 | Temp: 102.9°C | Motor: Rotating Left
+2025-04-27 23:31:33 | Temp: 100.5°C | Motor: Rotating Left
+2025-04-27 23:31:33 | Temp: 79.6°C | Motor: Rotating Right
+2025-04-27 23:31:33 | Temp: 90.9°C | Motor: Rotating Left
+2025-04-27 23:31:33 | Temp: 99.2°C | Motor: Rotating Left
+2025-04-27 23:31:33 | Temp: 71.6°C | Motor: Rotating Right
+2025-04-27 23:31:33 | Temp: 105.1°C | Motor: Stopping
+2025-04-27 23:31:33 | Temp: 83.4°C | Motor: Rotating Right
+2025-04-27 23:31:33 | Temp: 86.2°C | Motor: Rotating Left
+2025-04-27 23:31:34 | Temp: 96.4°C | Motor: Rotating Left
+2025-04-27 23:31:34 | Temp: 104°C | Motor: Rotating Left
+2025-04-27 23:31:34 | Temp: 91.3°C | Motor: Rotating Left
+2025-04-27 23:31:34 | Temp: 105.4°C | Motor: Stopping
+2025-04-27 23:31:34 | Temp: 103°C | Motor: Rotating Left
+2025-04-27 23:31:34 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:31:34 | Temp: 109.7°C | Motor: Stopping
+2025-04-27 23:31:34 | Temp: 77.7°C | Motor: Rotating Right
+2025-04-27 23:31:34 | Temp: 107.3°C | Motor: Stopping
+2025-04-27 23:31:34 | Temp: 81°C | Motor: Rotating Right
+2025-04-27 23:31:35 | Temp: 88.9°C | Motor: Rotating Left
+2025-04-27 23:31:35 | Temp: 100.5°C | Motor: Rotating Left
+2025-04-27 23:31:35 | Temp: 92.2°C | Motor: Rotating Left
+2025-04-27 23:31:35 | Temp: 80.8°C | Motor: Rotating Right
+2025-04-27 23:31:35 | Temp: 85.5°C | Motor: Rotating Left
+2025-04-27 23:31:35 | Temp: 70.9°C | Motor: Rotating Right
+2025-04-27 23:31:35 | Temp: 72.9°C | Motor: Rotating Right
+2025-04-27 23:31:35 | Temp: 90.2°C | Motor: Rotating Left
+2025-04-27 23:31:35 | Temp: 76°C | Motor: Rotating Right
+2025-04-27 23:31:35 | Temp: 104.6°C | Motor: Rotating Left
+2025-04-27 23:31:36 | Temp: 76.2°C | Motor: Rotating Right
+2025-04-27 23:31:36 | Temp: 104.6°C | Motor: Rotating Left
+2025-04-27 23:31:36 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:31:36 | Temp: 101.9°C | Motor: Rotating Left
+2025-04-27 23:31:36 | Temp: 109.5°C | Motor: Stopping
+2025-04-27 23:31:36 | Temp: 108.8°C | Motor: Stopping
+2025-04-27 23:31:36 | Temp: 91.1°C | Motor: Rotating Left
+2025-04-27 23:31:36 | Temp: 106.3°C | Motor: Stopping
+2025-04-27 23:31:36 | Temp: 103.9°C | Motor: Rotating Left
+2025-04-27 23:31:36 | Temp: 99.7°C | Motor: Rotating Left
+2025-04-27 23:31:37 | Temp: 82.5°C | Motor: Rotating Right
+2025-04-27 23:31:37 | Temp: 85.5°C | Motor: Rotating Left
+2025-04-27 23:31:37 | Temp: 93.7°C | Motor: Rotating Left
+2025-04-27 23:31:37 | Temp: 99°C | Motor: Rotating Left
+2025-04-27 23:31:37 | Temp: 80.9°C | Motor: Rotating Right
+2025-04-27 23:31:37 | Temp: 82°C | Motor: Rotating Right
+2025-04-27 23:31:37 | Temp: 81.7°C | Motor: Rotating Right
+2025-04-27 23:31:37 | Temp: 75.8°C | Motor: Rotating Right
+2025-04-27 23:31:37 | Temp: 89.7°C | Motor: Rotating Left
+2025-04-27 23:31:37 | Temp: 74.2°C | Motor: Rotating Right
+2025-04-27 23:31:38 | Temp: 82.1°C | Motor: Rotating Right
+2025-04-27 23:31:38 | Temp: 108.6°C | Motor: Stopping
+2025-04-27 23:31:38 | Temp: 104.7°C | Motor: Rotating Left
+2025-04-27 23:31:38 | Temp: 104.3°C | Motor: Rotating Left
+2025-04-27 23:31:38 | Temp: 74.6°C | Motor: Rotating Right
+2025-04-27 23:31:38 | Temp: 80.2°C | Motor: Rotating Right
+2025-04-27 23:31:38 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:31:38 | Temp: 72.7°C | Motor: Rotating Right
+2025-04-27 23:31:38 | Temp: 95.6°C | Motor: Rotating Left
+2025-04-27 23:31:38 | Temp: 106.4°C | Motor: Stopping
+2025-04-27 23:31:39 | Temp: 102.5°C | Motor: Rotating Left
+2025-04-27 23:31:39 | Temp: 97°C | Motor: Rotating Left
+2025-04-27 23:31:39 | Temp: 96.2°C | Motor: Rotating Left
+2025-04-27 23:31:39 | Temp: 85.2°C | Motor: Rotating Left
+2025-04-27 23:31:39 | Temp: 88.9°C | Motor: Rotating Left
+2025-04-27 23:31:39 | Temp: 95.7°C | Motor: Rotating Left
+2025-04-27 23:31:39 | Temp: 84°C | Motor: Rotating Right
+2025-04-27 23:31:39 | Temp: 105.3°C | Motor: Stopping
+2025-04-27 23:31:39 | Temp: 87.2°C | Motor: Rotating Left
+2025-04-27 23:31:39 | Temp: 73.1°C | Motor: Rotating Right
+2025-04-27 23:31:40 | Temp: 90.2°C | Motor: Rotating Left
+2025-04-27 23:31:40 | Temp: 94.9°C | Motor: Rotating Left
+2025-04-27 23:31:40 | Temp: 88.7°C | Motor: Rotating Left
+2025-04-27 23:31:40 | Temp: 74°C | Motor: Rotating Right
+2025-04-27 23:31:40 | Temp: 83.9°C | Motor: Rotating Right
+2025-04-27 23:31:40 | Temp: 94.8°C | Motor: Rotating Left
+2025-04-27 23:31:40 | Temp: 86°C | Motor: Rotating Left
+2025-04-27 23:31:40 | Temp: 95.6°C | Motor: Rotating Left
+2025-04-27 23:31:40 | Temp: 100.7°C | Motor: Rotating Left
+2025-04-27 23:31:40 | Temp: 100.9°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 99.8°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 72.8°C | Motor: Rotating Right
+2025-04-27 23:31:41 | Temp: 94.8°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 89.7°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 102.3°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 99.4°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 95.1°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 97.4°C | Motor: Rotating Left
+2025-04-27 23:31:41 | Temp: 80.8°C | Motor: Rotating Right
+2025-04-27 23:31:42 | Temp: 84.3°C | Motor: Rotating Right
+2025-04-27 23:31:42 | Temp: 89.9°C | Motor: Rotating Left
+2025-04-27 23:31:42 | Temp: 107.8°C | Motor: Stopping
+2025-04-27 23:31:42 | Temp: 105.7°C | Motor: Stopping
+2025-04-27 23:31:42 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:31:42 | Temp: 82°C | Motor: Rotating Right
+2025-04-27 23:31:42 | Temp: 86.7°C | Motor: Rotating Left
+2025-04-27 23:31:42 | Temp: 74.4°C | Motor: Rotating Right
+2025-04-27 23:31:42 | Temp: 72.5°C | Motor: Rotating Right
+2025-04-27 23:31:42 | Temp: 103.9°C | Motor: Rotating Left
+2025-04-27 23:31:43 | Temp: 77.6°C | Motor: Rotating Right
+2025-04-27 23:31:43 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:31:43 | Temp: 88.9°C | Motor: Rotating Left
+2025-04-27 23:31:43 | Temp: 91.5°C | Motor: Rotating Left
+2025-04-27 23:31:43 | Temp: 91.9°C | Motor: Rotating Left
+2025-04-27 23:31:43 | Temp: 102.8°C | Motor: Rotating Left
+2025-04-27 23:31:43 | Temp: 76.3°C | Motor: Rotating Right
+2025-04-27 23:31:43 | Temp: 103.1°C | Motor: Rotating Left
+2025-04-27 23:31:43 | Temp: 83.7°C | Motor: Rotating Right
+2025-04-27 23:31:43 | Temp: 102.2°C | Motor: Rotating Left
+2025-04-27 23:31:44 | Temp: 89.3°C | Motor: Rotating Left
+2025-04-27 23:31:44 | Temp: 108.7°C | Motor: Stopping
+2025-04-27 23:31:44 | Temp: 100.2°C | Motor: Rotating Left
+2025-04-27 23:31:44 | Temp: 74.1°C | Motor: Rotating Right
+2025-04-27 23:31:44 | Temp: 88.5°C | Motor: Rotating Left
+2025-04-27 23:31:44 | Temp: 92.5°C | Motor: Rotating Left
+2025-04-27 23:31:44 | Temp: 98.7°C | Motor: Rotating Left
+2025-04-27 23:31:44 | Temp: 108.8°C | Motor: Stopping
+2025-04-27 23:31:44 | Temp: 70.4°C | Motor: Rotating Right
+2025-04-27 23:31:44 | Temp: 86.1°C | Motor: Rotating Left
+2025-04-27 23:31:45 | Temp: 79.6°C | Motor: Rotating Right
+2025-04-27 23:31:45 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:31:45 | Temp: 101.3°C | Motor: Rotating Left
+2025-04-27 23:31:45 | Temp: 72.7°C | Motor: Rotating Right
+2025-04-27 23:31:45 | Temp: 75.7°C | Motor: Rotating Right
+2025-04-27 23:31:45 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:31:45 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:31:45 | Temp: 92.4°C | Motor: Rotating Left
+2025-04-27 23:31:45 | Temp: 91.3°C | Motor: Rotating Left
+2025-04-27 23:31:45 | Temp: 77.6°C | Motor: Rotating Right
+2025-04-27 23:31:46 | Temp: 81.5°C | Motor: Rotating Right
+2025-04-27 23:31:46 | Temp: 98.9°C | Motor: Rotating Left
+2025-04-27 23:31:46 | Temp: 95.5°C | Motor: Rotating Left
+2025-04-27 23:31:46 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:31:46 | Temp: 75.6°C | Motor: Rotating Right
+2025-04-27 23:31:46 | Temp: 72.7°C | Motor: Rotating Right
+2025-04-27 23:31:46 | Temp: 88.5°C | Motor: Rotating Left
+2025-04-27 23:31:46 | Temp: 77.2°C | Motor: Rotating Right
+2025-04-27 23:31:46 | Temp: 105.8°C | Motor: Stopping
+2025-04-27 23:31:46 | Temp: 102.2°C | Motor: Rotating Left
+2025-04-27 23:31:47 | Temp: 104.6°C | Motor: Rotating Left
+2025-04-27 23:31:47 | Temp: 85.1°C | Motor: Rotating Left
+2025-04-27 23:31:47 | Temp: 96.1°C | Motor: Rotating Left
+2025-04-27 23:31:47 | Temp: 94.9°C | Motor: Rotating Left
+2025-04-27 23:31:47 | Temp: 84.4°C | Motor: Rotating Right
+2025-04-27 23:31:47 | Temp: 109.8°C | Motor: Stopping
+2025-04-27 23:31:47 | Temp: 72.6°C | Motor: Rotating Right
+2025-04-27 23:31:47 | Temp: 73.2°C | Motor: Rotating Right
+2025-04-27 23:31:47 | Temp: 108.7°C | Motor: Stopping
+2025-04-27 23:31:47 | Temp: 108.3°C | Motor: Stopping
+2025-04-27 23:31:48 | Temp: 84.5°C | Motor: Rotating Right
+2025-04-27 23:31:48 | Temp: 73.5°C | Motor: Rotating Right
+2025-04-27 23:31:48 | Temp: 78.2°C | Motor: Rotating Right
+2025-04-27 23:31:48 | Temp: 71°C | Motor: Rotating Right
+2025-04-27 23:31:48 | Temp: 71.4°C | Motor: Rotating Right
+2025-04-27 23:31:48 | Temp: 79.1°C | Motor: Rotating Right
+2025-04-27 23:31:48 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:31:48 | Temp: 81.3°C | Motor: Rotating Right
+2025-04-27 23:31:48 | Temp: 96.7°C | Motor: Rotating Left
+2025-04-27 23:31:48 | Temp: 74.1°C | Motor: Rotating Right
+2025-04-27 23:31:49 | Temp: 84.1°C | Motor: Rotating Right
+2025-04-27 23:31:49 | Temp: 108.3°C | Motor: Stopping
+2025-04-27 23:31:49 | Temp: 98.2°C | Motor: Rotating Left
+2025-04-27 23:31:49 | Temp: 109.7°C | Motor: Stopping
+2025-04-27 23:31:49 | Temp: 93.9°C | Motor: Rotating Left
+2025-04-27 23:31:49 | Temp: 99.1°C | Motor: Rotating Left
+2025-04-27 23:31:49 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:31:49 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:31:49 | Temp: 106.3°C | Motor: Stopping
+2025-04-27 23:31:49 | Temp: 103.4°C | Motor: Rotating Left
+2025-04-27 23:31:50 | Temp: 99.8°C | Motor: Rotating Left
+2025-04-27 23:31:50 | Temp: 100.9°C | Motor: Rotating Left
+2025-04-27 23:31:50 | Temp: 73.8°C | Motor: Rotating Right
+2025-04-27 23:31:50 | Temp: 81.2°C | Motor: Rotating Right
+2025-04-27 23:31:50 | Temp: 81°C | Motor: Rotating Right
+2025-04-27 23:31:50 | Temp: 83.4°C | Motor: Rotating Right
+2025-04-27 23:31:50 | Temp: 81°C | Motor: Rotating Right
+2025-04-27 23:31:50 | Temp: 83.7°C | Motor: Rotating Right
+2025-04-27 23:31:50 | Temp: 81.8°C | Motor: Rotating Right
+2025-04-27 23:31:50 | Temp: 74.9°C | Motor: Rotating Right
+2025-04-27 23:31:51 | Temp: 82°C | Motor: Rotating Right
+2025-04-27 23:31:51 | Temp: 96.4°C | Motor: Rotating Left
+2025-04-27 23:31:51 | Temp: 78.5°C | Motor: Rotating Right
+2025-04-27 23:31:51 | Temp: 85.4°C | Motor: Rotating Left
+2025-04-27 23:31:51 | Temp: 97.4°C | Motor: Rotating Left
+2025-04-27 23:31:51 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:31:51 | Temp: 94.6°C | Motor: Rotating Left
+2025-04-27 23:31:51 | Temp: 75.4°C | Motor: Rotating Right
+2025-04-27 23:31:51 | Temp: 86.5°C | Motor: Rotating Left
+2025-04-27 23:31:52 | Temp: 76.5°C | Motor: Rotating Right
+2025-04-27 23:31:52 | Temp: 79.5°C | Motor: Rotating Right
+2025-04-27 23:31:52 | Temp: 100.6°C | Motor: Rotating Left
+2025-04-27 23:31:52 | Temp: 74.8°C | Motor: Rotating Right
+2025-04-27 23:31:52 | Temp: 102.9°C | Motor: Rotating Left
+2025-04-27 23:31:52 | Temp: 95.5°C | Motor: Rotating Left
+2025-04-27 23:31:52 | Temp: 94°C | Motor: Rotating Left
+2025-04-27 23:31:52 | Temp: 92°C | Motor: Rotating Left
+2025-04-27 23:31:52 | Temp: 93.1°C | Motor: Rotating Left
+2025-04-27 23:31:52 | Temp: 96.4°C | Motor: Rotating Left
+2025-04-27 23:31:53 | Temp: 88.3°C | Motor: Rotating Left
+2025-04-27 23:31:53 | Temp: 81.8°C | Motor: Rotating Right
+2025-04-27 23:31:53 | Temp: 81.5°C | Motor: Rotating Right
+2025-04-27 23:31:53 | Temp: 74.5°C | Motor: Rotating Right
+2025-04-27 23:31:53 | Temp: 80.8°C | Motor: Rotating Right
+2025-04-27 23:31:53 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:31:53 | Temp: 85.5°C | Motor: Rotating Left
+2025-04-27 23:31:53 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:31:53 | Temp: 103.7°C | Motor: Rotating Left
+2025-04-27 23:31:53 | Temp: 94.4°C | Motor: Rotating Left
+2025-04-27 23:31:54 | Temp: 106.1°C | Motor: Stopping
+2025-04-27 23:31:54 | Temp: 108.7°C | Motor: Stopping
+2025-04-27 23:31:54 | Temp: 101.6°C | Motor: Rotating Left
+2025-04-27 23:31:54 | Temp: 87.7°C | Motor: Rotating Left
+2025-04-27 23:31:54 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:31:54 | Temp: 77.1°C | Motor: Rotating Right
+2025-04-27 23:31:54 | Temp: 70.3°C | Motor: Rotating Right
+2025-04-27 23:31:54 | Temp: 82.3°C | Motor: Rotating Right
+2025-04-27 23:31:54 | Temp: 96.9°C | Motor: Rotating Left
+2025-04-27 23:31:54 | Temp: 75.7°C | Motor: Rotating Right
+2025-04-27 23:31:55 | Temp: 94°C | Motor: Rotating Left
+2025-04-27 23:31:55 | Temp: 98.6°C | Motor: Rotating Left
+2025-04-27 23:31:55 | Temp: 80.4°C | Motor: Rotating Right
+2025-04-27 23:31:55 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:31:55 | Temp: 98.7°C | Motor: Rotating Left
+2025-04-27 23:31:55 | Temp: 73.4°C | Motor: Rotating Right
+2025-04-27 23:31:55 | Temp: 105.4°C | Motor: Stopping
+2025-04-27 23:31:55 | Temp: 82.7°C | Motor: Rotating Right
+2025-04-27 23:31:55 | Temp: 95.4°C | Motor: Rotating Left
+2025-04-27 23:31:55 | Temp: 83.8°C | Motor: Rotating Right
+2025-04-27 23:31:56 | Temp: 109.1°C | Motor: Stopping
+2025-04-27 23:31:56 | Temp: 109°C | Motor: Stopping
+2025-04-27 23:31:56 | Temp: 95.6°C | Motor: Rotating Left
+2025-04-27 23:31:56 | Temp: 80.6°C | Motor: Rotating Right
+2025-04-27 23:31:56 | Temp: 73.5°C | Motor: Rotating Right
+2025-04-27 23:31:56 | Temp: 106.4°C | Motor: Stopping
+2025-04-27 23:31:56 | Temp: 98.5°C | Motor: Rotating Left
+2025-04-27 23:31:56 | Temp: 84.2°C | Motor: Rotating Right
+2025-04-27 23:31:56 | Temp: 85.8°C | Motor: Rotating Left
+2025-04-27 23:31:56 | Temp: 92.3°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 103.9°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 81.9°C | Motor: Rotating Right
+2025-04-27 23:31:57 | Temp: 86.2°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 90.7°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 99.6°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 88.6°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 93°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 95.2°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 96.1°C | Motor: Rotating Left
+2025-04-27 23:31:57 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:31:58 | Temp: 100.9°C | Motor: Rotating Left
+2025-04-27 23:31:58 | Temp: 75.4°C | Motor: Rotating Right
+2025-04-27 23:31:58 | Temp: 103.8°C | Motor: Rotating Left
+2025-04-27 23:31:58 | Temp: 106.6°C | Motor: Stopping
+2025-04-27 23:31:58 | Temp: 85.3°C | Motor: Rotating Left
+2025-04-27 23:31:58 | Temp: 92.5°C | Motor: Rotating Left
+2025-04-27 23:31:58 | Temp: 70°C | Motor: Rotating Right
+2025-04-27 23:31:58 | Temp: 75.9°C | Motor: Rotating Right
+2025-04-27 23:31:58 | Temp: 105.2°C | Motor: Stopping
+2025-04-27 23:31:58 | Temp: 90.6°C | Motor: Rotating Left
+2025-04-27 23:31:59 | Temp: 89.7°C | Motor: Rotating Left
+2025-04-27 23:31:59 | Temp: 99.5°C | Motor: Rotating Left
+2025-04-27 23:31:59 | Temp: 89.6°C | Motor: Rotating Left
+2025-04-27 23:31:59 | Temp: 70.5°C | Motor: Rotating Right
+2025-04-27 23:31:59 | Temp: 105.4°C | Motor: Stopping
+2025-04-27 23:31:59 | Temp: 88.3°C | Motor: Rotating Left
+2025-04-27 23:31:59 | Temp: 106.9°C | Motor: Stopping
+2025-04-27 23:31:59 | Temp: 93.9°C | Motor: Rotating Left
+2025-04-27 23:31:59 | Temp: 97.8°C | Motor: Rotating Left
+2025-04-27 23:31:59 | Temp: 82.8°C | Motor: Rotating Right
+2025-04-27 23:32:00 | Temp: 71.4°C | Motor: Rotating Right
+2025-04-27 23:32:00 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:32:00 | Temp: 89.9°C | Motor: Rotating Left
+2025-04-27 23:32:00 | Temp: 87.6°C | Motor: Rotating Left
+2025-04-27 23:32:00 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:32:00 | Temp: 74.8°C | Motor: Rotating Right
+2025-04-27 23:32:00 | Temp: 101.4°C | Motor: Rotating Left
+2025-04-27 23:32:00 | Temp: 90.7°C | Motor: Rotating Left
+2025-04-27 23:32:00 | Temp: 100°C | Motor: Rotating Left
+2025-04-27 23:32:00 | Temp: 82.8°C | Motor: Rotating Right
+2025-04-27 23:32:01 | Temp: 100.6°C | Motor: Rotating Left
+2025-04-27 23:32:01 | Temp: 86.1°C | Motor: Rotating Left
+2025-04-27 23:32:01 | Temp: 88.2°C | Motor: Rotating Left
+2025-04-27 23:32:01 | Temp: 89.6°C | Motor: Rotating Left
+2025-04-27 23:32:01 | Temp: 82.7°C | Motor: Rotating Right
+2025-04-27 23:32:01 | Temp: 98.7°C | Motor: Rotating Left
+2025-04-27 23:32:01 | Temp: 72.1°C | Motor: Rotating Right
+2025-04-27 23:32:01 | Temp: 82.7°C | Motor: Rotating Right
+2025-04-27 23:32:01 | Temp: 104.6°C | Motor: Rotating Left
+2025-04-27 23:32:01 | Temp: 107.3°C | Motor: Stopping
+2025-04-27 23:32:02 | Temp: 103.4°C | Motor: Rotating Left
+2025-04-27 23:32:02 | Temp: 84.4°C | Motor: Rotating Right
+2025-04-27 23:32:02 | Temp: 96.9°C | Motor: Rotating Left
+2025-04-27 23:32:02 | Temp: 78.2°C | Motor: Rotating Right
+2025-04-27 23:32:02 | Temp: 84.9°C | Motor: Rotating Right
+2025-04-27 23:32:02 | Temp: 92.3°C | Motor: Rotating Left
+2025-04-27 23:32:02 | Temp: 96.6°C | Motor: Rotating Left
+2025-04-27 23:32:02 | Temp: 77.1°C | Motor: Rotating Right
+2025-04-27 23:32:02 | Temp: 76.2°C | Motor: Rotating Right
+2025-04-27 23:32:02 | Temp: 79.6°C | Motor: Rotating Right
+2025-04-27 23:32:03 | Temp: 89.9°C | Motor: Rotating Left
+2025-04-27 23:32:03 | Temp: 72.9°C | Motor: Rotating Right
+2025-04-27 23:32:03 | Temp: 96.5°C | Motor: Rotating Left
+2025-04-27 23:32:03 | Temp: 105°C | Motor: Stopping
+2025-04-27 23:32:03 | Temp: 85.7°C | Motor: Rotating Left
+2025-04-27 23:32:03 | Temp: 94.1°C | Motor: Rotating Left
+2025-04-27 23:32:03 | Temp: 109.8°C | Motor: Stopping
+2025-04-27 23:32:03 | Temp: 77.2°C | Motor: Rotating Right
+2025-04-27 23:32:03 | Temp: 74.8°C | Motor: Rotating Right
+2025-04-27 23:32:03 | Temp: 99.8°C | Motor: Rotating Left
+2025-04-27 23:32:04 | Temp: 85.2°C | Motor: Rotating Left
+2025-04-27 23:32:04 | Temp: 100.7°C | Motor: Rotating Left
+2025-04-27 23:32:04 | Temp: 76°C | Motor: Rotating Right
+2025-04-27 23:32:04 | Temp: 98.6°C | Motor: Rotating Left
+2025-04-27 23:32:04 | Temp: 80.3°C | Motor: Rotating Right
+2025-04-27 23:32:04 | Temp: 88.7°C | Motor: Rotating Left
+2025-04-27 23:32:04 | Temp: 87.3°C | Motor: Rotating Left
+2025-04-27 23:32:04 | Temp: 82.5°C | Motor: Rotating Right
+2025-04-27 23:32:04 | Temp: 96.7°C | Motor: Rotating Left
+2025-04-27 23:32:04 | Temp: 81.9°C | Motor: Rotating Right
+2025-04-27 23:32:05 | Temp: 79.8°C | Motor: Rotating Right
+2025-04-27 23:32:05 | Temp: 85.3°C | Motor: Rotating Left
+2025-04-27 23:32:05 | Temp: 96.3°C | Motor: Rotating Left
+2025-04-27 23:32:05 | Temp: 101.9°C | Motor: Rotating Left
+2025-04-27 23:32:05 | Temp: 93.5°C | Motor: Rotating Left
+2025-04-27 23:32:05 | Temp: 106.5°C | Motor: Stopping
+2025-04-27 23:32:05 | Temp: 84.2°C | Motor: Rotating Right
+2025-04-27 23:32:05 | Temp: 75.3°C | Motor: Rotating Right
+2025-04-27 23:32:05 | Temp: 73.6°C | Motor: Rotating Right
+2025-04-27 23:32:05 | Temp: 85.7°C | Motor: Rotating Left
+2025-04-27 23:32:06 | Temp: 84.9°C | Motor: Rotating Right
+2025-04-27 23:32:06 | Temp: 88.7°C | Motor: Rotating Left
+2025-04-27 23:32:06 | Temp: 88.6°C | Motor: Rotating Left
+2025-04-27 23:32:06 | Temp: 71.4°C | Motor: Rotating Right
+2025-04-27 23:32:06 | Temp: 83.7°C | Motor: Rotating Right
+2025-04-27 23:32:06 | Temp: 104.3°C | Motor: Rotating Left
+2025-04-27 23:32:06 | Temp: 95.6°C | Motor: Rotating Left
+2025-04-27 23:32:06 | Temp: 78.8°C | Motor: Rotating Right
+2025-04-27 23:32:06 | Temp: 106.7°C | Motor: Stopping
+2025-04-27 23:32:06 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:32:07 | Temp: 108.6°C | Motor: Stopping
+2025-04-27 23:32:07 | Temp: 77.1°C | Motor: Rotating Right
+2025-04-27 23:32:07 | Temp: 91.1°C | Motor: Rotating Left
+2025-04-27 23:32:07 | Temp: 109.8°C | Motor: Stopping
+2025-04-27 23:32:07 | Temp: 105.7°C | Motor: Stopping
+2025-04-27 23:32:07 | Temp: 101.5°C | Motor: Rotating Left
+2025-04-27 23:32:07 | Temp: 88.6°C | Motor: Rotating Left
+2025-04-27 23:32:07 | Temp: 78.2°C | Motor: Rotating Right
+2025-04-27 23:32:07 | Temp: 109.2°C | Motor: Stopping
+2025-04-27 23:32:07 | Temp: 70.5°C | Motor: Rotating Right
+2025-04-27 23:32:08 | Temp: 90.2°C | Motor: Rotating Left
+2025-04-27 23:32:08 | Temp: 74.2°C | Motor: Rotating Right
+2025-04-27 23:32:08 | Temp: 85.8°C | Motor: Rotating Left
+2025-04-27 23:32:08 | Temp: 71.7°C | Motor: Rotating Right
+2025-04-27 23:32:08 | Temp: 106.2°C | Motor: Stopping
+2025-04-27 23:32:08 | Temp: 109.3°C | Motor: Stopping
+2025-04-27 23:32:08 | Temp: 103.4°C | Motor: Rotating Left
+2025-04-27 23:32:08 | Temp: 75.6°C | Motor: Rotating Right
+2025-04-27 23:32:08 | Temp: 109.9°C | Motor: Stopping
+2025-04-27 23:32:08 | Temp: 107°C | Motor: Stopping
+2025-04-27 23:32:09 | Temp: 86.5°C | Motor: Rotating Left
+2025-04-27 23:32:09 | Temp: 84.8°C | Motor: Rotating Right
+2025-04-27 23:32:09 | Temp: 80.9°C | Motor: Rotating Right
+2025-04-27 23:32:09 | Temp: 100.3°C | Motor: Rotating Left
+2025-04-27 23:32:09 | Temp: 81.5°C | Motor: Rotating Right
+2025-04-27 23:32:09 | Temp: 89.9°C | Motor: Rotating Left
+2025-04-27 23:32:09 | Temp: 89.9°C | Motor: Rotating Left
+2025-04-27 23:32:09 | Temp: 107.1°C | Motor: Stopping
+2025-04-27 23:32:09 | Temp: 98.7°C | Motor: Rotating Left
+2025-04-27 23:32:09 | Temp: 86.6°C | Motor: Rotating Left
+2025-04-27 23:32:10 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:32:10 | Temp: 92.5°C | Motor: Rotating Left
+2025-04-27 23:32:10 | Temp: 89°C | Motor: Rotating Left
+2025-04-27 23:32:10 | Temp: 109.1°C | Motor: Stopping
+2025-04-27 23:32:10 | Temp: 92.4°C | Motor: Rotating Left
+2025-04-27 23:32:10 | Temp: 79.9°C | Motor: Rotating Right
+2025-04-27 23:32:10 | Temp: 95.8°C | Motor: Rotating Left
+2025-04-27 23:32:10 | Temp: 106.2°C | Motor: Stopping
+2025-04-27 23:32:10 | Temp: 88.2°C | Motor: Rotating Left
+2025-04-27 23:32:10 | Temp: 95°C | Motor: Rotating Left
+2025-04-27 23:32:11 | Temp: 106.7°C | Motor: Stopping
+2025-04-27 23:32:11 | Temp: 103.6°C | Motor: Rotating Left
+2025-04-27 23:32:11 | Temp: 99.2°C | Motor: Rotating Left
+2025-04-27 23:32:11 | Temp: 77.7°C | Motor: Rotating Right
+2025-04-27 23:32:11 | Temp: 100.5°C | Motor: Rotating Left
+2025-04-27 23:32:11 | Temp: 90.6°C | Motor: Rotating Left
+2025-04-27 23:32:11 | Temp: 77°C | Motor: Rotating Right
+2025-04-27 23:32:11 | Temp: 94°C | Motor: Rotating Left
+2025-04-27 23:32:11 | Temp: 96.3°C | Motor: Rotating Left
+2025-04-27 23:32:12 | Temp: 76.9°C | Motor: Rotating Right
+2025-04-27 23:32:12 | Temp: 86.2°C | Motor: Rotating Left
+2025-04-27 23:32:12 | Temp: 72.8°C | Motor: Rotating Right
+2025-04-27 23:32:12 | Temp: 87°C | Motor: Rotating Left
+2025-04-27 23:32:12 | Temp: 97.2°C | Motor: Rotating Left
+2025-04-27 23:32:12 | Temp: 103.2°C | Motor: Rotating Left
+2025-04-27 23:32:12 | Temp: 98.5°C | Motor: Rotating Left
+2025-04-27 23:32:12 | Temp: 77.1°C | Motor: Rotating Right
+2025-04-27 23:32:12 | Temp: 83.1°C | Motor: Rotating Right
+2025-04-27 23:32:12 | Temp: 90.8°C | Motor: Rotating Left
+2025-04-27 23:32:13 | Temp: 101°C | Motor: Rotating Left
+2025-04-27 23:32:13 | Temp: 94.9°C | Motor: Rotating Left
+2025-04-27 23:32:13 | Temp: 108.7°C | Motor: Stopping
+2025-04-27 23:32:13 | Temp: 83.5°C | Motor: Rotating Right
+2025-04-27 23:32:13 | Temp: 109.1°C | Motor: Stopping
+2025-04-27 23:32:13 | Temp: 107.8°C | Motor: Stopping
+2025-04-27 23:32:13 | Temp: 105.9°C | Motor: Stopping
+2025-04-27 23:32:13 | Temp: 79.1°C | Motor: Rotating Right
+2025-04-27 23:32:13 | Temp: 93.6°C | Motor: Rotating Left
+2025-04-27 23:32:13 | Temp: 97.3°C | Motor: Rotating Left
+2025-04-27 23:32:14 | Temp: 92.5°C | Motor: Rotating Left
+2025-04-27 23:32:14 | Temp: 73.8°C | Motor: Rotating Right
+2025-04-27 23:32:14 | Temp: 94°C | Motor: Rotating Left
+2025-04-27 23:32:14 | Temp: 86.1°C | Motor: Rotating Left
+2025-04-27 23:32:14 | Temp: 98.3°C | Motor: Rotating Left
+2025-04-27 23:32:14 | Temp: 101.7°C | Motor: Rotating Left
+2025-04-27 23:32:14 | Temp: 76.6°C | Motor: Rotating Right
+2025-04-27 23:32:14 | Temp: 78.9°C | Motor: Rotating Right
+2025-04-27 23:32:14 | Temp: 104°C | Motor: Rotating Left
+2025-04-27 23:32:14 | Temp: 95.8°C | Motor: Rotating Left
+2025-04-27 23:32:15 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:32:15 | Temp: 106.1°C | Motor: Stopping
+2025-04-27 23:32:15 | Temp: 72.1°C | Motor: Rotating Right
+2025-04-27 23:32:15 | Temp: 98.5°C | Motor: Rotating Left
+2025-04-27 23:32:15 | Temp: 83.1°C | Motor: Rotating Right
+2025-04-27 23:32:15 | Temp: 99.3°C | Motor: Rotating Left
+2025-04-27 23:32:15 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:32:15 | Temp: 106.8°C | Motor: Stopping
+2025-04-27 23:32:15 | Temp: 101.6°C | Motor: Rotating Left
+2025-04-27 23:32:15 | Temp: 100°C | Motor: Rotating Left
+2025-04-27 23:32:16 | Temp: 87.6°C | Motor: Rotating Left
+2025-04-27 23:32:16 | Temp: 92.6°C | Motor: Rotating Left
+2025-04-27 23:32:16 | Temp: 80.1°C | Motor: Rotating Right
+2025-04-27 23:32:16 | Temp: 81.6°C | Motor: Rotating Right
+2025-04-27 23:32:16 | Temp: 101.3°C | Motor: Rotating Left
+2025-04-27 23:32:16 | Temp: 74.5°C | Motor: Rotating Right
+2025-04-27 23:32:16 | Temp: 79.4°C | Motor: Rotating Right
+2025-04-27 23:32:16 | Temp: 92.5°C | Motor: Rotating Left
+2025-04-27 23:32:16 | Temp: 83.6°C | Motor: Rotating Right
+2025-04-27 23:32:16 | Temp: 98.3°C | Motor: Rotating Left
+2025-04-27 23:32:17 | Temp: 79.8°C | Motor: Rotating Right
+2025-04-27 23:32:17 | Temp: 106.1°C | Motor: Stopping
+2025-04-27 23:32:17 | Temp: 97.3°C | Motor: Rotating Left
+2025-04-27 23:32:17 | Temp: 99.1°C | Motor: Rotating Left
+2025-04-27 23:32:17 | Temp: 77.4°C | Motor: Rotating Right
+2025-04-27 23:32:17 | Temp: 85.6°C | Motor: Rotating Left
+2025-04-27 23:32:17 | Temp: 86°C | Motor: Rotating Left
+2025-04-27 23:32:17 | Temp: 79.2°C | Motor: Rotating Right
+2025-04-27 23:32:17 | Temp: 89.8°C | Motor: Rotating Left
+2025-04-27 23:32:17 | Temp: 80°C | Motor: Rotating Right
+2025-04-27 23:32:18 | Temp: 105.1°C | Motor: Stopping
+2025-04-27 23:32:18 | Temp: 80.2°C | Motor: Rotating Right
+2025-04-27 23:32:18 | Temp: 71.4°C | Motor: Rotating Right
+2025-04-27 23:32:18 | Temp: 107.2°C | Motor: Stopping
+2025-04-27 23:32:18 | Temp: 108.7°C | Motor: Stopping
+2025-04-27 23:32:18 | Temp: 79.7°C | Motor: Rotating Right
+2025-04-27 23:32:18 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:32:18 | Temp: 85.6°C | Motor: Rotating Left
+2025-04-27 23:32:18 | Temp: 76.6°C | Motor: Rotating Right
+2025-04-27 23:32:18 | Temp: 83.3°C | Motor: Rotating Right
+2025-04-27 23:32:19 | Temp: 70.8°C | Motor: Rotating Right
+2025-04-27 23:32:19 | Temp: 89.4°C | Motor: Rotating Left
+2025-04-27 23:32:19 | Temp: 101.1°C | Motor: Rotating Left
+2025-04-27 23:32:19 | Temp: 76.2°C | Motor: Rotating Right
+2025-04-27 23:32:19 | Temp: 101°C | Motor: Rotating Left
+2025-04-27 23:32:19 | Temp: 92.4°C | Motor: Rotating Left
+2025-04-27 23:32:19 | Temp: 80.7°C | Motor: Rotating Right
+2025-04-27 23:32:19 | Temp: 105.7°C | Motor: Stopping
+2025-04-27 23:32:19 | Temp: 74.9°C | Motor: Rotating Right
+2025-04-27 23:32:19 | Temp: 89.5°C | Motor: Rotating Left
+2025-04-27 23:32:20 | Temp: 94°C | Motor: Rotating Left
+2025-04-27 23:32:20 | Temp: 80°C | Motor: Rotating Right
+2025-04-27 23:32:20 | Temp: 80.8°C | Motor: Rotating Right
+2025-04-27 23:32:20 | Temp: 81.3°C | Motor: Rotating Right
+2025-04-27 23:32:20 | Temp: 109.1°C | Motor: Stopping
+2025-04-27 23:32:20 | Temp: 88.2°C | Motor: Rotating Left
+2025-04-27 23:32:20 | Temp: 92.2°C | Motor: Rotating Left
+2025-04-27 23:32:20 | Temp: 85.1°C | Motor: Rotating Left
+2025-04-27 23:32:20 | Temp: 92.6°C | Motor: Rotating Left
+2025-04-27 23:32:20 | Temp: 107.2°C | Motor: Stopping
+2025-04-27 23:32:21 | Temp: 95.2°C | Motor: Rotating Left
+2025-04-27 23:32:21 | Temp: 87.7°C | Motor: Rotating Left
+2025-04-27 23:32:21 | Temp: 77.4°C | Motor: Rotating Right
+2025-04-27 23:32:21 | Temp: 91.8°C | Motor: Rotating Left
+2025-04-27 23:32:21 | Temp: 84.9°C | Motor: Rotating Right
+2025-04-27 23:32:21 | Temp: 71.4°C | Motor: Rotating Right
+2025-04-27 23:32:21 | Temp: 101.5°C | Motor: Rotating Left
+2025-04-27 23:32:21 | Temp: 101.8°C | Motor: Rotating Left
+2025-04-27 23:32:21 | Temp: 82.2°C | Motor: Rotating Right
+2025-04-27 23:32:21 | Temp: 103.3°C | Motor: Rotating Left
+2025-04-27 23:32:22 | Temp: 75.1°C | Motor: Rotating Right
+2025-04-27 23:32:22 | Temp: 78.3°C | Motor: Rotating Right
+2025-04-27 23:32:22 | Temp: 82.8°C | Motor: Rotating Right
+2025-04-27 23:32:22 | Temp: 101.4°C | Motor: Rotating Left
+2025-04-27 23:32:22 | Temp: 84.5°C | Motor: Rotating Right
+2025-04-27 23:32:22 | Temp: 109°C | Motor: Stopping
+2025-04-27 23:32:22 | Temp: 79.1°C | Motor: Rotating Right
+2025-04-27 23:32:22 | Temp: 90.4°C | Motor: Rotating Left
+2025-04-27 23:32:22 | Temp: 104.7°C | Motor: Rotating Left
+2025-04-27 23:32:22 | Temp: 79.2°C | Motor: Rotating Right
+2025-04-27 23:32:23 | Temp: 109.9°C | Motor: Stopping
+2025-04-27 23:32:23 | Temp: 83.9°C | Motor: Rotating Right
+2025-04-27 23:32:23 | Temp: 89.2°C | Motor: Rotating Left
+2025-04-27 23:32:23 | Temp: 80.7°C | Motor: Rotating Right
+2025-04-27 23:32:23 | Temp: 90.5°C | Motor: Rotating Left
+2025-04-27 23:32:23 | Temp: 88.3°C | Motor: Rotating Left
+2025-04-27 23:32:23 | Temp: 94.1°C | Motor: Rotating Left
+2025-04-27 23:32:23 | Temp: 107.9°C | Motor: Stopping
+2025-04-27 23:32:23 | Temp: 103.5°C | Motor: Rotating Left
+2025-04-27 23:32:23 | Temp: 76.7°C | Motor: Rotating Right
+2025-04-27 23:32:24 | Temp: 105.1°C | Motor: Stopping
+2025-04-27 23:32:24 | Temp: 83.9°C | Motor: Rotating Right
+2025-04-27 23:32:24 | Temp: 94.5°C | Motor: Rotating Left
+2025-04-27 23:32:24 | Temp: 107.7°C | Motor: Stopping
+2025-04-27 23:32:24 | Temp: 105.7°C | Motor: Stopping
+2025-04-27 23:32:24 | Temp: 104.6°C | Motor: Rotating Left
+2025-04-27 23:32:24 | Temp: 109.1°C | Motor: Stopping
+2025-04-27 23:32:24 | Temp: 92.4°C | Motor: Rotating Left
+2025-04-27 23:32:24 | Temp: 96.5°C | Motor: Rotating Left
+2025-04-27 23:32:24 | Temp: 76.6°C | Motor: Rotating Right
+2025-04-27 23:32:25 | Temp: 85.8°C | Motor: Rotating Left
+2025-04-27 23:32:25 | Temp: 96.8°C | Motor: Rotating Left
+2025-04-27 23:32:25 | Temp: 84.9°C | Motor: Rotating Right
+2025-04-27 23:32:25 | Temp: 93.8°C | Motor: Rotating Left
+2025-04-27 23:32:25 | Temp: 83.5°C | Motor: Rotating Right
+2025-04-27 23:32:25 | Temp: 94.6°C | Motor: Rotating Left
+2025-04-27 23:32:25 | Temp: 92.8°C | Motor: Rotating Left
+2025-04-27 23:32:25 | Temp: 92.6°C | Motor: Rotating Left
+2025-04-27 23:32:25 | Temp: 75°C | Motor: Rotating Right
+2025-04-27 23:32:25 | Temp: 82.8°C | Motor: Rotating Right
+2025-04-27 23:32:26 | Temp: 101.8°C | Motor: Rotating Left
+2025-04-27 23:32:26 | Temp: 70.1°C | Motor: Rotating Right
+2025-04-27 23:32:26 | Temp: 91.9°C | Motor: Rotating Left
+2025-04-27 23:32:26 | Temp: 81.1°C | Motor: Rotating Right
+2025-04-27 23:32:26 | Temp: 80.8°C | Motor: Rotating Right
+2025-04-27 23:32:26 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:32:26 | Temp: 94.6°C | Motor: Rotating Left
+2025-04-27 23:32:26 | Temp: 100.1°C | Motor: Rotating Left
+2025-04-27 23:32:26 | Temp: 105.5°C | Motor: Stopping
+2025-04-27 23:32:26 | Temp: 88.1°C | Motor: Rotating Left
+2025-04-27 23:32:27 | Temp: 106.8°C | Motor: Stopping
+2025-04-27 23:32:27 | Temp: 100.6°C | Motor: Rotating Left
+2025-04-27 23:32:27 | Temp: 97.2°C | Motor: Rotating Left
+2025-04-27 23:32:27 | Temp: 86.5°C | Motor: Rotating Left
+2025-04-27 23:32:27 | Temp: 98.4°C | Motor: Rotating Left
+2025-04-27 23:32:27 | Temp: 92.9°C | Motor: Rotating Left
+2025-04-27 23:32:27 | Temp: 76.4°C | Motor: Rotating Right
+2025-04-27 23:32:27 | Temp: 92.7°C | Motor: Rotating Left
+2025-04-27 23:32:27 | Temp: 75.4°C | Motor: Rotating Right
+2025-04-27 23:32:27 | Temp: 102.9°C | Motor: Rotating Left
+2025-04-27 23:32:28 | Temp: 94.5°C | Motor: Rotating Left
+2025-04-27 23:32:28 | Temp: 86.4°C | Motor: Rotating Left
+2025-04-27 23:32:28 | Temp: 84.9°C | Motor: Rotating Right
+2025-04-27 23:32:28 | Temp: 109.4°C | Motor: Stopping
+2025-04-27 23:32:28 | Temp: 70.2°C | Motor: Rotating Right
+2025-04-27 23:32:28 | Temp: 98.4°C | Motor: Rotating Left
+2025-04-27 23:32:28 | Temp: 94°C | Motor: Rotating Left
+2025-04-27 23:32:28 | Temp: 93°C | Motor: Rotating Left
+2025-04-27 23:32:28 | Temp: 76.2°C | Motor: Rotating Right
+2025-04-27 23:32:28 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:32:29 | Temp: 101°C | Motor: Rotating Left
+2025-04-27 23:32:29 | Temp: 103.3°C | Motor: Rotating Left
+2025-04-27 23:32:29 | Temp: 94.3°C | Motor: Rotating Left
+2025-04-27 23:32:29 | Temp: 83°C | Motor: Rotating Right
+2025-04-27 23:32:29 | Temp: 74.4°C | Motor: Rotating Right
+2025-04-27 23:32:29 | Temp: 100.3°C | Motor: Rotating Left
+2025-04-27 23:32:29 | Temp: 80.6°C | Motor: Rotating Right
+2025-04-27 23:32:29 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:32:29 | Temp: 90.4°C | Motor: Rotating Left
+2025-04-27 23:32:29 | Temp: 76.2°C | Motor: Rotating Right
+2025-04-27 23:32:30 | Temp: 72.4°C | Motor: Rotating Right
+2025-04-27 23:32:30 | Temp: 87.3°C | Motor: Rotating Left
+2025-04-27 23:32:30 | Temp: 102°C | Motor: Rotating Left
+2025-04-27 23:32:30 | Temp: 99.6°C | Motor: Rotating Left
+2025-04-27 23:32:30 | Temp: 99°C | Motor: Rotating Left
+2025-04-27 23:32:30 | Temp: 90.4°C | Motor: Rotating Left
+2025-04-27 23:32:30 | Temp: 77.8°C | Motor: Rotating Right
+2025-04-27 23:32:30 | Temp: 105.4°C | Motor: Stopping
+2025-04-27 23:32:30 | Temp: 108.4°C | Motor: Stopping
+2025-04-27 23:32:31 | Temp: 78.4°C | Motor: Rotating Right
+2025-04-27 23:32:31 | Temp: 98.3°C | Motor: Rotating Left
+2025-04-27 23:32:31 | Temp: 92.9°C | Motor: Rotating Left
+2025-04-27 23:32:31 | Temp: 94.8°C | Motor: Rotating Left
+2025-04-27 23:32:31 | Temp: 108.5°C | Motor: Stopping
+2025-04-27 23:32:31 | Temp: 87.6°C | Motor: Rotating Left
+2025-04-27 23:32:31 | Temp: 95°C | Motor: Rotating Left
+2025-04-27 23:32:31 | Temp: 92.1°C | Motor: Rotating Left
+2025-04-27 23:32:31 | Temp: 106.8°C | Motor: Stopping
+2025-04-27 23:32:31 | Temp: 73.2°C | Motor: Rotating Right
+2025-04-27 23:32:32 | Temp: 98.4°C | Motor: Rotating Left
+2025-04-27 23:32:32 | Temp: 91.1°C | Motor: Rotating Left
+2025-04-27 23:32:32 | Temp: 104.3°C | Motor: Rotating Left
+2025-04-27 23:32:32 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:32:32 | Temp: 70.6°C | Motor: Rotating Right
+2025-04-27 23:32:32 | Temp: 72.5°C | Motor: Rotating Right
+2025-04-27 23:32:32 | Temp: 91.3°C | Motor: Rotating Left
+2025-04-27 23:32:32 | Temp: 101°C | Motor: Rotating Left
+2025-04-27 23:32:32 | Temp: 83.1°C | Motor: Rotating Right
+2025-04-27 23:32:32 | Temp: 75.5°C | Motor: Rotating Right
+2025-04-27 23:32:33 | Temp: 81.4°C | Motor: Rotating Right
+2025-04-27 23:32:33 | Temp: 89.3°C | Motor: Rotating Left
+2025-04-27 23:32:33 | Temp: 73.1°C | Motor: Rotating Right
+2025-04-27 23:32:33 | Temp: 93.9°C | Motor: Rotating Left
+2025-04-27 23:32:33 | Temp: 76.6°C | Motor: Rotating Right
+2025-04-27 23:32:33 | Temp: 98°C | Motor: Rotating Left
+2025-04-27 23:32:33 | Temp: 83°C | Motor: Rotating Right
+2025-04-27 23:32:33 | Temp: 97°C | Motor: Rotating Left
+2025-04-27 23:32:33 | Temp: 105.8°C | Motor: Stopping
+2025-04-27 23:32:33 | Temp: 78.4°C | Motor: Rotating Right
+2025-04-27 23:32:34 | Temp: 90.6°C | Motor: Rotating Left
+2025-04-27 23:32:34 | Temp: 109.4°C | Motor: Stopping
+2025-04-27 23:32:34 | Temp: 102°C | Motor: Rotating Left
+2025-04-27 23:32:34 | Temp: 73.6°C | Motor: Rotating Right
+2025-04-27 23:32:34 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:32:34 | Temp: 100.5°C | Motor: Rotating Left
+2025-04-27 23:32:34 | Temp: 91.2°C | Motor: Rotating Left
+2025-04-27 23:32:34 | Temp: 74.4°C | Motor: Rotating Right
+2025-04-27 23:32:34 | Temp: 77.8°C | Motor: Rotating Right
+2025-04-27 23:32:34 | Temp: 88°C | Motor: Rotating Left
+2025-04-27 23:32:35 | Temp: 77.6°C | Motor: Rotating Right
+2025-04-27 23:32:35 | Temp: 101.4°C | Motor: Rotating Left
+2025-04-27 23:32:35 | Temp: 104.3°C | Motor: Rotating Left
+2025-04-27 23:32:35 | Temp: 71.9°C | Motor: Rotating Right
+2025-04-27 23:32:35 | Temp: 78.3°C | Motor: Rotating Right
+2025-04-27 23:32:35 | Temp: 105°C | Motor: Stopping
+2025-04-27 23:32:35 | Temp: 74.4°C | Motor: Rotating Right
+2025-04-27 23:32:35 | Temp: 94.8°C | Motor: Rotating Left
+2025-04-27 23:32:35 | Temp: 96°C | Motor: Rotating Left
+2025-04-27 23:32:35 | Temp: 82.8°C | Motor: Rotating Right
+2025-04-27 23:32:36 | Temp: 95.6°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 102.6°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 97.3°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 98.7°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 86.6°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 103.9°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 86.7°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 99.6°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 86.2°C | Motor: Rotating Left
+2025-04-27 23:32:36 | Temp: 77.7°C | Motor: Rotating Right
+2025-04-27 23:32:37 | Temp: 103.2°C | Motor: Rotating Left
+2025-04-27 23:32:37 | Temp: 106.8°C | Motor: Stopping
+2025-04-27 23:32:37 | Temp: 72.3°C | Motor: Rotating Right
+2025-04-27 23:32:37 | Temp: 95.2°C | Motor: Rotating Left
+2025-04-27 23:32:37 | Temp: 105.6°C | Motor: Stopping
+2025-04-27 23:32:37 | Temp: 96.5°C | Motor: Rotating Left
+2025-04-27 23:32:37 | Temp: 80.9°C | Motor: Rotating Right
+2025-04-27 23:32:37 | Temp: 82°C | Motor: Rotating Right
+2025-04-27 23:32:37 | Temp: 100.9°C | Motor: Rotating Left
+2025-04-27 23:32:37 | Temp: 84°C | Motor: Rotating Right
+2025-04-27 23:32:38 | Temp: 95.3°C | Motor: Rotating Left
+2025-04-27 23:32:38 | Temp: 103.8°C | Motor: Rotating Left
+2025-04-27 23:32:38 | Temp: 75.4°C | Motor: Rotating Right
+2025-04-27 23:32:38 | Temp: 89.6°C | Motor: Rotating Left
+2025-04-27 23:32:38 | Temp: 105.7°C | Motor: Stopping
+2025-04-27 23:32:38 | Temp: 83.8°C | Motor: Rotating Right
+2025-04-27 23:32:38 | Temp: 84.6°C | Motor: Rotating Right
+2025-04-27 23:32:38 | Temp: 105.4°C | Motor: Stopping
+2025-04-27 23:32:38 | Temp: 108.6°C | Motor: Stopping
+2025-04-27 23:32:38 | Temp: 105.8°C | Motor: Stopping
+2025-04-27 23:32:39 | Temp: 73.4°C | Motor: Rotating Right
+2025-04-27 23:32:39 | Temp: 94.2°C | Motor: Rotating Left
+2025-04-27 23:32:39 | Temp: 98.5°C | Motor: Rotating Left
+2025-04-27 23:32:39 | Temp: 100.7°C | Motor: Rotating Left
+2025-04-27 23:32:39 | Temp: 78.2°C | Motor: Rotating Right
+2025-04-27 23:32:39 | Temp: 70.3°C | Motor: Rotating Right
+2025-04-27 23:32:39 | Temp: 89.9°C | Motor: Rotating Left
+2025-04-27 23:32:39 | Temp: 90.1°C | Motor: Rotating Left
+2025-04-27 23:32:39 | Temp: 95.1°C | Motor: Rotating Left
+2025-04-27 23:32:39 | Temp: 106.1°C | Motor: Stopping
+2025-04-27 23:32:40 | Temp: 93.1°C | Motor: Rotating Left
+2025-04-27 23:32:40 | Temp: 83.5°C | Motor: Rotating Right
+2025-04-27 23:32:40 | Temp: 98.1°C | Motor: Rotating Left
+2025-04-27 23:32:40 | Temp: 95.4°C | Motor: Rotating Left
+2025-04-27 23:32:40 | Temp: 104°C | Motor: Rotating Left
+2025-04-27 23:32:40 | Temp: 93.8°C | Motor: Rotating Left
+2025-04-27 23:32:40 | Temp: 77.2°C | Motor: Rotating Right
+2025-04-27 23:32:40 | Temp: 70.1°C | Motor: Rotating Right
+2025-04-27 23:32:40 | Temp: 105.8°C | Motor: Stopping
+2025-04-27 23:32:40 | Temp: 103.3°C | Motor: Rotating Left
+2025-04-27 23:32:41 | Temp: 84.1°C | Motor: Rotating Right
+2025-04-27 23:32:41 | Temp: 91.1°C | Motor: Rotating Left
+2025-04-27 23:32:41 | Temp: 97.1°C | Motor: Rotating Left
+2025-04-27 23:32:41 | Temp: 89.6°C | Motor: Rotating Left
+2025-04-27 23:32:41 | Temp: 106°C | Motor: Stopping
+2025-04-27 23:32:41 | Temp: 88.1°C | Motor: Rotating Left
+2025-04-27 23:32:41 | Temp: 98.6°C | Motor: Rotating Left
+2025-04-27 23:32:41 | Temp: 75.8°C | Motor: Rotating Right
+2025-04-27 23:32:41 | Temp: 78.7°C | Motor: Rotating Right
+2025-04-27 23:32:41 | Temp: 92.4°C | Motor: Rotating Left
+2025-04-27 23:32:42 | Temp: 71.7°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 82.1°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 71.9°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 95.4°C | Motor: Rotating Left
+2025-04-27 23:32:42 | Temp: 108°C | Motor: Stopping
+2025-04-27 23:32:42 | Temp: 75.3°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 90.9°C | Motor: Rotating Left
+2025-04-27 23:32:42 | Temp: 87.9°C | Motor: Rotating Left
+2025-04-27 23:32:42 | Temp: 95.4°C | Motor: Rotating Left
+2025-04-27 23:32:42 | Temp: 76°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 79.2°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 73.7°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 84.7°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 107.4°C | Motor: Stopping
+2025-04-27 23:32:43 | Temp: 99.2°C | Motor: Rotating Left
+2025-04-27 23:32:43 | Temp: 78.7°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 91.2°C | Motor: Rotating Left
+2025-04-27 23:32:43 | Temp: 106.4°C | Motor: Stopping
+2025-04-27 23:32:43 | Temp: 78.9°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 82.2°C | Motor: Rotating Right
+2025-04-27 23:32:44 | Temp: 99.7°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 93°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 103.4°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 82.1°C | Motor: Rotating Right
+2025-04-27 23:32:44 | Temp: 107.8°C | Motor: Stopping
+2025-04-27 23:32:44 | Temp: 94.6°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 100.2°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 91.6°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 100.4°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 108.9°C | Motor: Stopping
+2025-04-27 23:32:45 | Temp: 74.1°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 97.3°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 81°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 71.2°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 77.9°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 79°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 76.5°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 98.8°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 92.2°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 97.1°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 100°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 101.4°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 100.9°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 74.8°C | Motor: Rotating Right
+2025-04-27 23:32:46 | Temp: 98.8°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 85.3°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 83.5°C | Motor: Rotating Right
+2025-04-27 23:32:46 | Temp: 75.2°C | Motor: Rotating Right
+.7°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 107.8°C | Motor: Stopping
+2025-04-27 23:32:42 | Temp: 87.8°C | Motor: Rotating Left
+2025-04-27 23:32:42 | Temp: 80.6°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 91.7°C | Motor: Rotating Left
+2025-04-27 23:32:42 | Temp: 72.8°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 82.7°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 70.8°C | Motor: Rotating Right
+2025-04-27 23:32:42 | Temp: 91.6°C | Motor: Rotating Left
+2025-04-27 23:32:43 | Temp: 86°C | Motor: Rotating Left
+2025-04-27 23:32:43 | Temp: 76.8°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 101.5°C | Motor: Rotating Left
+2025-04-27 23:32:43 | Temp: 80.5°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 74.6°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 78.2°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 87.6°C | Motor: Rotating Left
+2025-04-27 23:32:43 | Temp: 83.8°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 71.7°C | Motor: Rotating Right
+2025-04-27 23:32:43 | Temp: 75.8°C | Motor: Rotating Right
+2025-04-27 23:32:44 | Temp: 93.2°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 72.1°C | Motor: Rotating Right
+2025-04-27 23:32:44 | Temp: 95.9°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 109.5°C | Motor: Stopping
+2025-04-27 23:32:44 | Temp: 92.9°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 104.4°C | Motor: Rotating Left
+2025-04-27 23:32:44 | Temp: 108.4°C | Motor: Stopping
+2025-04-27 23:32:44 | Temp: 72.1°C | Motor: Rotating Right
+2025-04-27 23:32:44 | Temp: 71.9°C | Motor: Rotating Right
+2025-04-27 23:32:44 | Temp: 94.3°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 88.8°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 106.6°C | Motor: Stopping
+2025-04-27 23:32:45 | Temp: 97.3°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 86.6°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 84.4°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 107.9°C | Motor: Stopping
+2025-04-27 23:32:45 | Temp: 103.6°C | Motor: Rotating Left
+2025-04-27 23:32:45 | Temp: 82.4°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 80.7°C | Motor: Rotating Right
+2025-04-27 23:32:45 | Temp: 99.6°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 104.1°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 91.9°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 106.5°C | Motor: Stopping
+2025-04-27 23:32:46 | Temp: 90.8°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 102.4°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 71.1°C | Motor: Rotating Right
+2025-04-27 23:32:46 | Temp: 99.1°C | Motor: Rotating Left
+2025-04-27 23:32:46 | Temp: 80°C | Motor: Rotating Right
