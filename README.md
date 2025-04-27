@@ -33,7 +33,7 @@ TemperatureMotorControl/
 ---
 
 ## How to Build
-Navigate to the TemperatureMotorControl project directory first.
+Navigate to the TemperatureMotorControl project directory first.  
 Install `g++`.
 
 ### Build and Run Main Program
@@ -63,5 +63,5 @@ g++ test.cpp Motor.cpp TemperatureSensor.cpp HardwareUnit.cpp -o test_temp_motor
 - Basic terminal access.
 
 ## Author
-Yang Yang
+Yang Yang  
 April 2025
